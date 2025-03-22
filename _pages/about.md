@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-image: 'images/Rajarshi-MITRA.jpg'
+image: '/images/Rajarshi-MITRA.jpg'
 image_caption: "© 2013 Image Courtesy: Rajarshi MITRA (www.flickr.com/photos/tataimitra/11146655355), CC BY-SA 2.0 Generic | Flickr"
 description: '“New Religiosity and the Digital Study of Eudaimonia”'
 ---
@@ -14,8 +14,8 @@ This project will create the world’s largest, most collaborative, epistemicall
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="images/Cmglee_Cambridge_Mosque_atrium.jpg" alt="Cambridge Central Mosque's atrium showcasing contemporary Islamic architecture" style="height: 400px; object-fit: cover;" loading="lazy">
-    <img src="images/Svetoary_community_celebrating_Mokosh_2016.jpg" alt="Svetoary community celebrating Mokosh, demonstrating contemporary revival of Slavic traditions" style="height: 400px; object-fit: cover;" loading="lazy">
+    <img src="/images/Cmglee_Cambridge_Mosque_atrium.jpg" alt="Cambridge Central Mosque's atrium showcasing contemporary Islamic architecture" style="height: 400px; object-fit: cover;" loading="lazy">
+    <img src="/images/Svetoary_community_celebrating_Mokosh_2016.jpg" alt="Svetoary community celebrating Mokosh, demonstrating contemporary revival of Slavic traditions" style="height: 400px; object-fit: cover;" loading="lazy">
   </div>
   <em>Left: Cambridge Central Mosque's atrium (© Cmglee, CC BY-SA 4.0) | Right: Svetoary community celebrating Mokosh (© Union of Slavic Rodnover Communities, CC BY-SA 4.0)</em>
 </div>
@@ -38,7 +38,7 @@ We have updated this definition to create an inclusion criteria for groups which
 
 The use of quantitative measurements and digital tools to study religion has accelerated in the past decade. Our project extends this growing trend in the study of religion by creating a publicly available data set and integrated analytic tools to facilitate future studies. By creating the “New Religiosities Poll” (NRP) on the existing framework of the Database of Religious History (DRH) at the University of British Columbia, we will extend the analytic power of the database from largely premodern to the contemporary. 
 
-![Ynglists celebrating Kupala with the ritual of the sword, in Omsk](images/Kupala-Omsk-Perun-Sword-Fire.jpg)
+![Ynglists celebrating Kupala with the ritual of the sword, in Omsk](/images/Kupala-Omsk-Perun-Sword-Fire.jpg)
 *Ynglists celebrating Kupala with the ritual of the sword, in Omsk, Omsk Oblast, Russia. 8 July 2016  Valdiswallace, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.

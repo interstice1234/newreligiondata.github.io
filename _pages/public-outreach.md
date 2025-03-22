@@ -2,7 +2,7 @@
 layout: page
 title: Public Outreach
 permalink: /public-outreach/
-image: 'images/Shinchonji_World_Peace_Festival_mannam.jpg'
+image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
 image_caption: "Shinchonji hosted the 6th Shinchonji National Olympiad in Olympic Stadium in Seoul, Republic of Korea 16 September 2012 © Junganghansik, CC BY-SA 3.0"
 ---
 
@@ -20,14 +20,14 @@ We will host an exhibition exploring the recent spread of Tibetan Buddhism in Vi
 - Engage local experts who have contributed NRP entries
 - Promote Digital Humanities methodologies in Southeast Asia 
 
-![Hai An Gallery Logo](images/Haian-gallery.png)
+![Hai An Gallery Logo](/images/Haian-gallery.png)
 
-![Hai An Gallery](images/Haian-Gallery-full.png)
+![Hai An Gallery](/images/Haian-Gallery-full.png)
 *A 2021 exhibition at Hai An Gallery called "The Fragrance of Motherland" displaying 100 calligraphy works by Zen master Thích Nhất Hạnh.* 
 
 ### Exhibition Co-Curator
 <div class="profile-card">
-<img src="images/Hoang-Ngoc-An.png" alt="Hoang Ngoc An" class="profile-image">
+<img src="/images/Hoang-Ngoc-An.png" alt="Hoang Ngoc An" class="profile-image">
 <div class="profile-info">
 <h4>Hoang Ngoc An</h4>
 <p>Graduate student in Museum Anthropology at Columbia University and recipient of the Fulbright Vietnamese Student Program (2024-2025). An has co-published on queer politics and minority religions, working with international research groups including USAID and The European Commission. She curated Vietnam's first exhibition series on transgender experiences (2019-2022) and coordinated content for a post-war reconciliation exhibit at the War Remnants Museum (2022).</p>
@@ -52,13 +52,13 @@ After an empowerment ceremony to his Vietnamese sangha, a former student of Chö
 **Focus:** Religion, belief and worldviews  
 **Target Audience:** Secondary teachers and healthcare professionals
 
-![Course Creation Preview](images/course-creation.png)
+![Course Creation Preview](/images/course-creation.png)
 
 ## Inform Seminar
 
 In Year Three, The Open University and Inform staff will host a seminar at King’s College London to promote wider distribution of project findings by reaching out to a variety of professionals and journalists who cover religion in the UK. Recordings of seminar presentations will be made freely available on [YouTube](http://www.youtube.com/@Informreligion9) and partner websites. 
 
-![Inform Seminar](images/Inform-Immortality-Seminar.jpg)
+![Inform Seminar](/images/Inform-Immortality-Seminar.jpg)
 *Panel Discussion at the Inform Seminar on Immortality: Beliefs and Practices held at King's College London in 2018.*
 
 ## Conferences and Colloquia
