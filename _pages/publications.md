@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-image: '{{site.baseurl}}/images/LifeImprovementCentre.jpg'
+image: '/images/LifeImprovementCentre.jpg'
 ---
 
 <div class="publication-category">
