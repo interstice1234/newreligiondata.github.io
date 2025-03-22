@@ -2,7 +2,7 @@
 layout: page
 title: DRH Database
 permalink: /database/
-image: '{{site.baseurl}}/images/DRH.jpg'
+image: '/images/DRH.jpg'
 ---
 
 The DRH began as one of the flagship initiatives of the Cultural Evolution of Religion Research Consortium (CERC), based at the University of British Columbia in Vancouver. It now continues as an independent academic initiative, based at UBC but involving partners and collaborators from all over the world.
