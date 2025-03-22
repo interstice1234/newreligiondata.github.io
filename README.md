@@ -1,68 +1,109 @@
-# Hilton – super simple portfolio theme for Jekyll
+# New Religions Website Documentation
 
-The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
+This is a Jekyll-based static website hosted on GitHub Pages. This document contains instructions for transferring repository ownership and maintaining the website.
 
-* * *
+## Repository Transfer Process
 
-### Demo
+### Option 1: Direct Repository Transfer (Recommended)
+1. Once the client has created their GitHub account:
+   - Go to repository Settings
+   - Scroll to "Danger Zone"
+   - Click "Transfer ownership"
+   - Enter client's GitHub username
+   - Client will receive email to accept transfer
 
-Check the theme in action [Live Demo](https://hilton-jekyll.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
+### Option 2: Fork and Pull Request
+1. Client forks the repository
+2. Set up GitHub Pages in the forked repository
+3. Configure GitHub Actions for deployment
 
-* * *
+## Post-Transfer Maintenance
 
-### Theme features
+### Setting Up Collaborator Access
+1. Client adds developer as collaborator:
+   - Repository Settings > Collaborators
+   - Click "Add people"
+   - Enter developer's GitHub username
+   - Select "Write" access
 
-- Works with GitHub Pages (host it for free)
-- Dark and light mode user can select themself
-- No jQuery, only vanilla JS
-- 100% responsive Design
-- Clean Code
-- Optimized for mobile devices
-- Section Blog
-- Section Works
-- Section Testimonials
-- Super fast performance ⚡⚡⚡
-- Social sharing buttons
-- Scroll to top button
-- Syntax highlighting (supports the Jekyll syntax highlighter)
-- Compatible with modern browsers
-- Medium style image zoom
-- Image Lazy loading
-- Image gallery
-- Custom logo support
-- Supports contact form (Formspree)
-- Supports MailChimp newsletter
-- Supports Disqus comments
-- Supports Google Analytics
-- Ionicons icons
-- Free Google Fonts
-- Free Updates & Support
+### Making Website Updates
 
-* * *
+#### For Small Changes (e.g., content updates, typos)
+```bash
+git checkout main
+git pull origin main
+git checkout -b fix/description-of-change
+# Make changes
+git add .
+git commit -m "Fix: Description of changes"
+git push origin fix/description-of-change
+# Create pull request on GitHub
+```
 
-### Installation
+#### For Larger Changes
+1. Create feature branch
+2. Make changes
+3. Create pull request with:
+   - Clear description
+   - Screenshots if visual changes
+   - Preview link
+4. Wait for client review
+5. Merge after approval
 
-#### Installing Ruby & Jekyll
+## File Structure
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+Key directories and files:
+- `_pages/` - Content pages
+- `_layouts/` - Page templates
+- `_includes/` - Reusable components
+- `assets/` - Images, CSS, JS
+- `_config.yml` - Site configuration
 
-* * *
+## Local Development
 
-### Deployment
+### Setup
+```bash
+# Install dependencies
+bundle install
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+# Start local server
+bundle exec jekyll serve --livereload
+```
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+### Preview
+- Local site: http://localhost:4000
+- Changes auto-reload in browser
 
-* * *
+## Deployment
 
-### Documentation
+The site automatically deploys when changes are pushed to the main branch:
+1. GitHub Actions builds the site
+2. Deploys to GitHub Pages
+3. Creates preview for pull requests
 
-Before using the Hilton theme, please read the attached documentation.
+## Content Updates
 
-* * *
+### Adding New Pages
+1. Create `.md` file in `_pages/` directory
+2. Add front matter:
+```yaml
+---
+layout: page
+title: Page Title
+permalink: /page-url/
+---
+```
 
-### Support
+### Adding Images
+1. Add image files to `assets/images/`
+2. Reference in markdown:
+```markdown
+![Alt text]({{site.baseurl}}/assets/images/image.jpg)
+```
 
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+## Need Help?
+
+For any questions or issues:
+1. Check existing documentation
+2. Create GitHub issue
+3. Contact the developer through GitHub
