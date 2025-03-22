@@ -2,7 +2,7 @@
 layout: page
 title: DRH Database
 permalink: /database/
-image: '/images/DRH.jpg'
+image: '{{site.baseurl}}/images/DRH.jpg'
 ---
 
 The DRH began as one of the flagship initiatives of the Cultural Evolution of Religion Research Consortium (CERC), based at the University of British Columbia in Vancouver. It now continues as an independent academic initiative, based at UBC but involving partners and collaborators from all over the world.
@@ -16,14 +16,14 @@ The pace of scholarly production concerning the religious historical record has 
 ## Quality scholarly opinion on historical traditions
 
 <div class="page-image">
-  <img src="/images/Deeper_Life_Christian_Church_Auditorium,_Gbagada,_Lagos_02.jpg" alt="Deeper Life Christian Church Auditorium in Lagos">
-  <p class="page-image__caption">Deeper Life Christian Church Auditorium, Gbagada, Lagos  2018 © Danidamiobi, CC BY-SA 4.0</p>
+  <img src="{{site.baseurl}}/images/Deeper_Life_Christian_Church_Auditorium,_Gbagada,_Lagos_02.jpg" alt="Deeper Life Christian Church Auditorium in Lagos">
+  <p class="page-image__caption">Deeper Life Christian Church Auditorium, Gbagada, Lagos  2018 Danidamiobi, CC BY-SA 4.0</p>
 </div>
 
 For scholars, researchers, teachers and the general public, the DRH functions as a gateway to reliable, comprehensive knowledge concerning the history of religions around the world, and cultural history more generally.
 Unlike Wikipedia, entries in the DRH are authored only by academic scholars, ensuring that the task of converting thick, qualitative knowledge into quantitative knowledge, and the directing of users to qualitative resources, is performed by those best qualified to do so. For our project on New Religiosity, we will introduce a new citizen science paradigm to complement traditional scholarly expertise. Powerful, built-in analytic and data visualization tools allow this knowledge to be accessed in entirely new and intuitive ways, with a host of research and pedagogical applications. For those interested in analyzing quantitatively the relationship between religion and other historical variables, the DRH provides the gold-standard of expert-sourced data.
 
-![DRH Analysis example](/images/DRH-example.jpg)
+![DRH Analysis example]({{site.baseurl}}/images/DRH-example.jpg)
 *Analysis tool by [Database of Religious History](https://religiondatabase.org/analyze/)*
 
 ## Assess the validity of scholarly generalizations
