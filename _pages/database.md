@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DRH Database
-permalink: /database/
+permalink: /newreligiondata.github.io/database/
 image: '{{site.baseurl}}/images/DRH.jpg'
 ---
 

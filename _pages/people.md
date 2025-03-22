@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink: /newreligiondata.github.io/people/
 ---
 
 <div class="people-section">
