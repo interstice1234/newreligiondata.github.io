@@ -2,7 +2,7 @@
 layout: page
 title: Public Outreach
 permalink: /public-outreach/
-image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
+image: '{{site.baseurl}}/images/Shinchonji_World_Peace_Festival_mannam.jpg'
 image_caption: "Shinchonji hosted the 6th Shinchonji National Olympiad in Olympic Stadium in Seoul, Republic of Korea 16 September 2012 © Junganghansik, CC BY-SA 3.0"
 ---
 

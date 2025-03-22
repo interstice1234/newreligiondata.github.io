@@ -2,7 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
-image: '/images/Rajarshi-MITRA.jpg'
+image: '{{site.baseurl}}/images/Rajarshi-MITRA.jpg'
 image_caption: "© 2013 Image Courtesy: Rajarshi MITRA (www.flickr.com/photos/tataimitra/11146655355), CC BY-SA 2.0 Generic | Flickr"
 description: '“New Religiosity and the Digital Study of Eudaimonia”'
 ---
