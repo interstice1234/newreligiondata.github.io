@@ -1,0 +1,75 @@
+#-------------------------------
+# Site Settings
+title: >-
+  New Religiosity and
+  the Digital Study of Eudaimonia
+logo: # You can add own logo. For example '/images/logo.png'.
+description: A comprehensive study creating the world's largest open-access dataset on contemporary religious movements, examining their impact on human flourishing and societal wellbeing through innovative digital humanities methods.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+      description: 'Learn about our research objectives and methodology'
+      image: '/images/Rajarshi MITRA_.jpg'
+      submenu:
+        - title: 'Overview'
+          url: '/about/'
+        - title: 'People'
+          url: '/people/'
+          description: 'Meet our research team and collaborators'
+          image: '/images/people.jpg'
+    - title: 'Project Activities' 
+      url: '/project/'
+      description: 'Ongoing research initiatives and collaborations'
+      image: '/images/Benin_-_batism_ceremony_in_Cotonou.jpg'
+    - title: 'Publications'
+      url: '/publications/'
+      description: 'Research outputs and academic contributions'
+      image: '/images/LifeImprovementCentre.jpg'
+    - title: 'Public Outreach'
+      url: '/public-outreach/'
+      description: 'Engaging with communities and stakeholders through public events and initiatives'
+      image: '/images/outreach.jpg'
+    - title: 'Workshops'
+      url: '/workshops/'
+      description: 'Upcoming academic workshops and training sessions'
+      image: '/images/Inform-Immortality-Seminar.jpg'
+    - title: 'DRH Database'
+      url: '/database/'
+      description: 'Access our comprehensive religious history database'
+      image: '/images/DRH.jpg'
+    - title: 'Contact'
+      url: '/contact/'
+      grid_exclude: true
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Mapping Modern Faith and Human Flourishing
+  hero__description: This research project develops the world's largest open-access dataset on contemporary religious movements, examining how new forms of religiosity impact human flourishing. By combining quantitative analysis with qualitative expertise through the Database of Religious History, we study religious groups that emerged since the 1970s across Christian, Dharmic, Japanese, Islamic, and esoteric traditions. The project aims to provide evidence-based insights for policymakers and researchers on how contemporary religious practices contribute to personal and societal wellbeing.
+  hero__image: '/images/NRDSE-home_hero.jpg'
+
+#-------------------------------
+# Main Navigation Grid Settings
+projects__settings:
+  projects__title: Research Areas
+  projects__description: Explore the key areas of our research project investigating new religious movements and their impact on human flourishing.
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id

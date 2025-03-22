@@ -1,0 +1,144 @@
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 32px auto;
+  padding: 32px 0;
+  display: block;
+
+  &::after {
+    content: '';
+    position: absolute;
+    width: 3px;
+    background: var(--brand-color);
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -1px;
+    border-radius: 3px;
+    opacity: 0.2;
+  }
+
+  @media screen and (max-width: $tablet) {
+    margin: 24px auto;
+    padding: 24px 0;
+    
+    &::after {
+      left: 31px;
+    }
+  }
+}
+
+.timeline-item {
+  padding: 10px 40px;
+  position: relative;
+  width: 50%;
+  margin-bottom: 24px;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    right: -6px;
+    top: 24px;
+    background: var(--brand-color);
+    border-radius: 50%;
+    z-index: 1;
+    transition: all .3s ease;
+  }
+
+  &:hover::after {
+    transform: scale(1.5);
+    background: var(--brand-color);
+  }
+
+  .timeline-content {
+    padding: 24px;
+    background: var(--background-alt-color);
+    border-radius: 16px;
+    position: relative;
+    transition: all .3s ease;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      border-style: solid;
+      width: 0;
+      height: 0;
+      top: 22px;
+      right: -15px;
+      border-width: 10px 0 10px 15px;
+      border-color: transparent transparent transparent var(--background-alt-color);
+    }
+  }
+
+  .timeline-date {
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    color: var(--brand-color);
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+
+  .timeline-text {
+    margin-bottom: 0;
+    line-height: 1.6;
+    color: var(--text-color);
+    font-size: 16px;
+  }
+
+  &:nth-child(even) {
+    left: 50%;
+    
+    &::after {
+      left: -6px;
+    }
+
+    .timeline-content {
+      &::after {
+        content: '';
+        position: absolute;
+        border-style: solid;
+        width: 0;
+        height: 0;
+        top: 22px;
+        left: -15px;
+        border-width: 10px 15px 10px 0;
+        border-color: transparent var(--background-alt-color) transparent transparent;
+      }
+    }
+  }
+
+  @media screen and (max-width: $tablet) {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+    margin-bottom: 20px;
+    
+    &::after {
+      left: 23px;
+    }
+
+    &:nth-child(even) {
+      left: 0;
+      
+      .timeline-content {
+        &::after {
+          left: -15px;
+          border-width: 10px 15px 10px 0;
+          border-color: transparent var(--background-alt-color) transparent transparent;
+        }
+      }
+    }
+
+    .timeline-content {
+      padding: 20px;
+    }
+  }
+}

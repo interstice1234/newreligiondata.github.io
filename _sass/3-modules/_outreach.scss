@@ -1,0 +1,145 @@
+// Public Outreach Page Styles
+
+.gallery-section {
+  margin: 2rem 0;
+  
+  figure {
+    margin: 1.5rem 0;
+    
+    &.full-width img {
+      width: 100%;
+      max-height: 500px;
+      object-fit: cover;
+    }
+  }
+  
+  figcaption {
+    font-size: 0.9rem;
+    color: var(--text-alt-color);
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+}
+
+.course-preview {
+  margin: 2rem 0;
+  
+  img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  figcaption {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-alt-color);
+  }
+}
+
+.seminar-photo {
+  margin: 2rem 0;
+  
+  img {
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  figcaption {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-alt-color);
+  }
+}
+
+.table-container {
+  margin: 2rem 0;
+  overflow-x: auto;
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--background);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    
+    th {
+      background: var(--background-alt);
+      padding: 1rem;
+      text-align: left;
+      font-weight: 600;
+    }
+    
+    td {
+      padding: 1rem;
+      border-top: 1px solid var(--border-color);
+    }
+    
+    tr:hover {
+      background: var(--background-alt);
+    }
+  }
+}
+
+.profile-card {
+  margin: 2rem 0;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  padding: 1.5rem;
+  background: var(--background-alt);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  
+  .profile-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .profile-info {
+    flex: 1;
+    
+    h4 {
+      margin: 0 0 1rem;
+      color: var(--heading-font-color);
+    }
+    
+    p {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    flex-direction: column;
+    
+    .profile-image {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+.team-section {
+  margin: 2rem 0;
+}
+
+.team-member {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.team-member h4 {
+  margin: 0 0 0.5rem 0;
+  color: #333;
+}
+
+.team-link {
+  text-align: center;
+  margin: 3rem 0;
+}

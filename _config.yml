@@ -1,0 +1,54 @@
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# Build Settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-sitemap
+
+
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Pages Path
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - RAW/
+  - vendor/
+  - "*.gem"
+  - "*.gemspec"
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - _posts/
+  - _projects/
+  - blog/
+  - elements.md
+  - node_modules/
+  - package.json
+  - package-lock.json
+
+sass:
+  sass_dir: _sass
+  style: compressed

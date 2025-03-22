@@ -1,0 +1,42 @@
+<!-- begin projects -->
+<section class="section projects animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner">
+
+          <div class="section__info">
+            <h2 class="section__title">Project Activities</h2>
+            <p class="section__description">Explore our research initiatives and methodologies</p>
+          </div>
+
+          <div class="row">
+            {% for item in site.data.settings.menu__settings.menu__items %}
+            {% unless item.title == "Home" or item.grid_exclude == true %}
+            <article class="project col col-4 col-d-6 col-t-12">
+              <div class="project__content">
+                <a href="{{ item.url }}" class="project__image">
+                  {% if item.image %}
+                  <img class="lazy" data-src="{{ item.image }}" alt="{{ item.title }}">
+                  {% else %}
+                  <img class="lazy" data-src="/images/Rajarshi MITRA_.jpg" alt="{{ item.title }}">
+                  {% endif %}
+                </a>
+                <div class="project__info">
+                  <h3 class="project__title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
+                  {% if item.description %}
+                    <div class="project__subtitle">{{ item.description }}</div>
+                  {% endif %}
+                </div>
+              </div>
+            </article>
+            {% endunless %}
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end projects -->

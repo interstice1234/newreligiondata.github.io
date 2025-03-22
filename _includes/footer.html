@@ -1,0 +1,46 @@
+<!-- begin footer -->
+<footer class="footer">
+
+  <div class="footer__gallery">
+    {% if site.data.settings.gallery %}
+    <div class="gallery">
+      {% for image in site.data.settings.gallery.gallery__images %}
+      <div class="gallery__image">
+        <img src="{{site.baseurl}}{{image.url}}" alt="{{image.alt}}" loading="lazy">
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer__partners">
+          <h3 class="partners-heading">Project Partners</h3>
+          <div class="partner-logos">
+            <a href="https://inform.ac/" class="partner-logo" target="_blank">
+              <img src="{{site.baseurl}}/images/partners/Inform-logo.jpg" alt="Inform" loading="lazy">
+            </a>
+            <a href="https://www.open.ac.uk/" class="partner-logo" target="_blank">
+              <img src="{{site.baseurl}}/images/partners/OU-logo.jpg" alt="The Open University" loading="lazy">
+            </a>
+            <a href="https://religiondatabase.org/landing" class="partner-logo" target="_blank">
+              <img src="{{site.baseurl}}/images/partners/DRH-logo.jpg" alt="Database of Religious History" loading="lazy">
+            </a>
+            <a href="https://www.ubc.ca/" class="partner-logo" target="_blank">
+              <img src="{{site.baseurl}}/images/partners/UBC-logo.png" alt="University of British Columbia" loading="lazy">
+            </a>
+          </div>
+        </div>
+        <div class="footer__info">
+          <div class="grant-info">This project is funded by a <a href="https://www.templetonworldcharity.org/projects-database" target="_blank">John Templeton Foundation Grant</a> (project #63357)</div>
+          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. <a href="{{site.baseurl}}/terms-conditions/" class="terms-link">Terms & Conditions</a></div>
+        </div>
+        <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+<!-- end footer -->
