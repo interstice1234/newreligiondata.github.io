@@ -86,5 +86,5 @@ Distinguished University Scholar and Professor of Philosophy at UBC, founding Di
 </div>
 
 <div class="team-link">
-<a href="/people" class="button button--primary">View Full Project Team and International Collaborators →</a>
+<a href="{{ site.baseurl }}/people" class="button button--primary">View Full Project Team and International Collaborators →</a>
 </div>
