@@ -17,7 +17,7 @@ menu__settings:
     - title: 'About'
       url: '/about/'
       description: 'Learn about our research objectives and methodology'
-      image: '{{site.baseurl}}/images/Rajarshi-MITRA.jpg'
+      image: '/images/Rajarshi-MITRA.jpg'
       submenu:
         - title: 'Overview'
           url: '/about/'
@@ -26,23 +26,23 @@ menu__settings:
     - title: 'Project Activities' 
       url: '/project/'
       description: 'Ongoing research initiatives and collaborations'
-      image: '{{site.baseurl}}/images/Benin_-_batism_ceremony_in_Cotonou.jpg'
+      image: '/images/Benin_-_batism_ceremony_in_Cotonou.jpg'
     - title: 'Publications'
       url: '/publications/'
       description: 'Research outputs and academic contributions'
-      image: '{{site.baseurl}}/images/LifeImprovementCentre.jpg'
+      image: '/images/LifeImprovementCentre.jpg'
     - title: 'Public Outreach'
       url: '/public-outreach/'
       description: 'Engaging with communities and stakeholders through public events and initiatives'
-      image: '{{site.baseurl}}/images/Shinchonji_World_Peace_Festival_mannam.jpg'
+      image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
     - title: 'Workshops'
       url: '/workshops/'
       description: 'Upcoming academic workshops and training sessions'
-      image: '{{site.baseurl}}/images/Inform-Immortality-Seminar.jpg'
+      image: '/images/Inform-Immortality-Seminar.jpg'
     - title: 'DRH Database'
       url: '/database/'
       description: 'Access our comprehensive religious history database'
-      image: '{{site.baseurl}}/images/DRH.jpg'
+      image: '/images/DRH.jpg'
     - title: 'Contact'
       url: '/contact/'
       grid_exclude: true
@@ -53,7 +53,7 @@ menu__settings:
 hero:
   hero__title: Mapping Modern Faith and Human Flourishing
   hero__description: This research project develops the world's largest open-access dataset on contemporary religious movements, examining how new forms of religiosity impact human flourishing. By combining quantitative analysis with qualitative expertise through the Database of Religious History, we study religious groups that emerged since the 1970s across Christian, Dharmic, Japanese, Islamic, and esoteric traditions. The project aims to provide evidence-based insights for policymakers and researchers on how contemporary religious practices contribute to personal and societal wellbeing.
-  hero__image: '{{site.baseurl}}/images/NRDSE-home_hero.jpg'
+  hero__image: '/images/NRDSE-home_hero.jpg'
 
 #-------------------------------
 # Main Navigation Grid Settings

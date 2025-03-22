@@ -17,7 +17,7 @@
               <div class="project__content">
                 <a href="{{site.baseurl}}{{ item.url }}" class="project__image">
                   {% if item.image %}
-                  <img class="lazy" data-src="{{ item.image }}" alt="{{ item.title }}">
+                  <img class="lazy" data-src="{{site.baseurl}}{{ item.image }}" alt="{{ item.title }}">
                   {% else %}
                   <img class="lazy" data-src="{{site.baseurl}}/images/Rajarshi MITRA_.jpg" alt="{{ item.title }}">
                   {% endif %}
