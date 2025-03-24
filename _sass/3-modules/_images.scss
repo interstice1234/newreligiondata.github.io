@@ -8,18 +8,24 @@
     width: 100%;
     border-radius: 8px;
   }
-}
 
-.page-image__caption {
-  display: block;
-  position: relative;
-  z-index: 1;
-  font-size: 14px;
-  line-height: 1.4;
-  background-color: rgba(255, 255, 255, 0.9);
-  margin-top: 12px;
-  margin-bottom: 0;
-  text-align: center;
-  color: var(--text-alt-color);
-  font-style: italic;
+  .page-image__caption {
+    position: absolute;
+    bottom: -20px;
+    left: 16px;
+    font-size: 14px;
+    line-height: 1.4;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: var(--dark);
+    font-style: normal;
+    padding: 8px 12px;
+    border-radius: 4px;
+    
+    @media only screen and (max-width: $tablet) {
+      bottom: -20px;
+      left: 8px;
+      font-size: 10px;
+      padding: 6px 8px;
+    }
+  }
 }

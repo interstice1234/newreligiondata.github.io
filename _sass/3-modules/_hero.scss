@@ -51,6 +51,24 @@
     object-fit: cover;
   }
 
+  .hero__image-caption {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    font-size: 14px;
+    color: var(--dark);
+    background: rgba(255, 255, 255, 0.9);
+    padding: 8px 12px;
+    border-radius: 4px;
+    
+    @media only screen and (max-width: $tablet) {
+      bottom: 8px;
+      left: 8px;
+      padding: 6px 10px;
+      font-size: 12px;
+    }
+  }
+
   @media only screen and (max-width: $wide) {
     height: 484px;
   }
@@ -173,4 +191,12 @@
       right: 0;
     }
   }
+}
+
+.hero .hero__right h1 {
+  text-decoration: underline;
+  text-decoration-color: var(--brand-color);
+  text-decoration-thickness: 24%;
+  text-underline-offset: -0.1em;
+  text-decoration-skip-ink: none;
 }

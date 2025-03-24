@@ -34,8 +34,20 @@
           </div>
         </div>
         <div class="footer__info">
+          <div class="footer-links">
+            {% for item in site.data.settings.menu__settings.footer__items %}
+            <a href="{{ site.baseurl }}{{ item.url }}" class="footer-link">{{ item.title }}</a>
+            {% if forloop.last == false %}
+            <span class="separator">|</span>
+            {% endif %}
+            {% endfor %}
+          </div>
           <div class="grant-info">This project is funded by a <a href="https://www.templetonworldcharity.org/projects-database" target="_blank">John Templeton Foundation Grant</a> (project #63357)</div>
-          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. <a href="{{site.baseurl}}/terms-conditions/" class="terms-link">Terms & Conditions</a></div>
+          <div class="copyright">
+            <span class="year">{{site.time | date: '%Y'}} &copy; {{site.data.settings.title}}</span>
+            <span class="separator">|</span>
+            <span class="web-design">Web design by Daniel Wojahn</span>
+          </div>
         </div>
         <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
       </div>

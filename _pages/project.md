@@ -3,7 +3,7 @@ layout: page
 title: Project Activities
 permalink: /project/
 image: '/images/Benin_-_batism_ceremony_in_Cotonou.jpg'
-image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin  2007 Ferdinand Reus from Arnhem, Holland, CC BY-SA 2.0"
+image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin,200. © Ferdinand Reus, CC BY-SA 2.0"
 ---
 
 <section class="section project-timeline animate">
@@ -40,7 +40,6 @@ image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin 
 </section>
 *Each phase builds upon the previous, creating a comprehensive framework for understanding contemporary religious movements and their impact on human flourishing.*
 
-
 ## Detailed Project Activities
 
 ### Phase 1: Poll Creation {#phase-1}
@@ -56,7 +55,6 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
 
 ## Project Timeline
 
-<div class="container">
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-content">
@@ -141,5 +139,4 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
       <p class="timeline-text">Grant cycle ends</p>
     </div>
   </div>
-</div>
 </div>

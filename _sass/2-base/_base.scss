@@ -42,15 +42,23 @@ h6 {
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
-  color: var(--heading-font-color);
 }
 
 h1 {
   font-size: $font-size-h1;
+  color: var(--brand-color);
 }
 
 h2 {
   font-size: $font-size-h2;
+  color: var(--brand-color);
+}
+
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-font-color);
 }
 
 h3 {
@@ -148,7 +156,7 @@ img,
       transition: $global-transition;
 
       &:hover {
-        color: var(--link-color);
+        color: var(--link-color-hover);
         border-color: var(--link-color-hover);
       }
     }
@@ -162,7 +170,7 @@ img,
 a {
   text-decoration: none;
   color: var(--link-color);
-  transition: $global-transition;
+  transition: color 0.2s ease;
 
   &:hover {
     color: var(--link-color-hover);

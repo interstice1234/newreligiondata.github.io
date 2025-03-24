@@ -26,6 +26,14 @@
       left: 31px;
     }
   }
+
+  @media screen and (max-width: 480px) {
+    padding: 20px 0;
+    
+    &::after {
+      left: 31px;
+    }
+  }
 }
 
 .timeline-item {
@@ -123,6 +131,7 @@
     
     &::after {
       left: 23px;
+      right: auto;
     }
 
     &:nth-child(even) {
@@ -139,6 +148,16 @@
 
     .timeline-content {
       padding: 20px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    padding-left: 60px;
+    padding-right: 20px;
+    
+    &::after {
+      left: 23px;
+      right: auto;
     }
   }
 }

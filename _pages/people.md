@@ -82,7 +82,7 @@ permalink: /people/
 <h3 class="person-name">Edward Slingerland</h3>
 <p class="person-title">Distinguished University Professor</p>
 <p class="person-additional">University of British Columbia's Department of Philosophy<br>Director, Database of Religious History (DRH)</p>
-<a href="mailto:edward.slingerland@gmail.com" class="person-email">edward.slingerland@gmail.com</a>
+<a href="mailto:edward.slingerland@ubc.ca" class="person-email">edward.slingerland@ubc.ca</a>
 </div>
 </div>
 </div>
@@ -115,22 +115,7 @@ permalink: /people/
 <a href="mailto:staff@ogdencenterforchange.com" class="person-email">staff@ogdencenterforchange.com</a>
 </div>
 </div>
-</div>
-  
-<h3 class="subsection-heading">New Religions Scholars</h3>
-<div class="people-grid">
-<div class="person-card">
-<div class="person-image">
-<img src="{{site.baseurl}}/images/people/erica-baffelli.jpg" alt="Erica Baffelli">
-</div>
-<div class="person-info">
-<h3 class="person-name">Erica Baffelli</h3>
-<p class="person-title">Professor</p>
-<p class="person-additional">The University of Manchester's Department of Japanese Studies<br>PI of Leverhulme Project 'Fear and Belonging in Minority Buddhist Communities' (2023-2027)</p>
-<a href="mailto:erica.baffelli@manchester.ac.uk" class="person-email">erica.baffelli@manchester.ac.uk</a>
-</div>
-</div>
-    
+      
 <div class="person-card">
 <div class="person-image">
 <img src="{{site.baseurl}}/images/people/todd-kashdan.jpg" alt="Todd Kashdan">
@@ -219,7 +204,7 @@ permalink: /people/
 </div>
 </div>
 
-<h3 class="subsection-heading">Digital Humanities, Data Science and Citizen Science Scholars</h3>
+<h3 class="subsection-heading">Digital Humanities and Citizen Science</h3>
 <div class="people-grid">
 <div class="person-card">
 <div class="person-image">
@@ -266,8 +251,8 @@ permalink: /people/
 <h2 class="section-heading">Contributors</h2>
 <div class="table-container">
 <table>
-<tr><th>Name</th><th>Affiliation</th></tr>
-<tr><td>Contributor Name</td><td>Institution Name</td></tr>
+<tr><th>Name</th><th>Affiliation</th><th>Poll Entry</th></tr>
+<tr><td>Contributor Name</td><td>Institution Name</td><td>Name of completed group</td></tr>
 </table>
 </div>
 </div>
