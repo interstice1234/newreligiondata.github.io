@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 image: '/images/LifeImprovementCentre.jpg'
+image_caption: "Scientology Life Improvement Centre, 2022. © Roy Katzenberg, CC BY-SA 2.0."
 ---
 
 <div class="publication-category">

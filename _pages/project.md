@@ -3,7 +3,7 @@ layout: page
 title: Project Activities
 permalink: /project/
 image: '/images/Benin_-_batism_ceremony_in_Cotonou.jpg'
-image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin,200. © Ferdinand Reus, CC BY-SA 2.0"
+image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin,200. © Ferdinand Reus, CC BY-SA 2.0."
 ---
 
 <section class="section project-timeline animate">

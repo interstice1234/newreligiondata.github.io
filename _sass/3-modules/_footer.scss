@@ -81,6 +81,22 @@
         margin: 0 8px;
         color: var(--text-alt-color);
       }
+
+      @media only screen and (max-width: $mobile) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        
+        .footer-link {
+          display: block;
+          margin: 0;
+        }
+
+        .separator {
+          display: none;
+        }
+      }
     }
 
     .copyright {
@@ -106,6 +122,23 @@
 
         &:hover {
           text-decoration: underline;
+        }
+      }
+
+      @media only screen and (max-width: $mobile) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        
+        .separator {
+          display: none;
+        }
+
+        .year,
+        .web-design {
+          display: block;
+          margin: 0;
         }
       }
     }
