@@ -1,47 +1,44 @@
-# New Religions Website Documentation
+# New Religiosity and the Digital Study of Eudaimonia Website
 
-This is a Jekyll-based static website hosted on GitHub Pages. This document contains instructions for transferring repository ownership and maintaining the website.
+This is the official website for the Templeton project "New Religiosity and the Digital Study of Eudaimonia", built with Jekyll and hosted on GitHub Pages. Visit the website at: https://newreligiosity.org
 
-## Repository Transfer Process
+## Project Overview
 
-### Option 1: Direct Repository Transfer (Recommended)
-1. Once the client has created their GitHub account:
-   - Go to repository Settings
-   - Scroll to "Danger Zone"
-   - Click "Transfer ownership"
-   - Enter client's GitHub username
-   - Client will receive email to accept transfer
+This project creates the world's largest, most collaborative, epistemically diverse, open-access mixed data set on contemporary religion. The resulting infrastructure will enable the exploration of how contemporary religion can contribute to or detract from personal and societal wellbeing.
 
-## Post-Transfer Maintenance
+## Call for Experts
 
-### Setting Up Collaborator Access
-1. Client adds developer as collaborator:
-   - Repository Settings > Collaborators
-   - Click "Add people"
-   - Enter developer's GitHub username
-   - Select "Write" access
+We are seeking experts in new religiosities within five target areas:
 
-### Making Website Updates
+- Christian
+- Dharmic
+- Japanese
+- Islamic
+- Esoteric
 
-#### For Small Changes (e.g., content updates, typos)
-```bash
-git checkout main
-git pull origin main
-git checkout -b fix/description-of-change
-# Make changes
-git add .
-git commit -m "Fix: Description of changes"
-git push origin fix/description-of-change
-# Create pull request on GitHub
-```
+Experts receive an honorarium per completed and externally reviewed entry. If you would like to propose an entry, please contact us at: stephen.christopher@kcl.ac.uk
 
-## Local Development
+## Website Structure
 
-### Setup
-```bash
-# Install dependencies
-bundle install
+- `_data/`: Site configuration and data files
+- `_includes/`: Reusable components
+- `_layouts/`: Page templates
+- `_pages/`: Website content
+- `_sass/`: Stylesheets
+- `images/`: Image assets
 
-# Start local server
-bundle exec jekyll serve --livereload
-```
+## Key Features
+
+- Project documentation
+- Timeline of project activities
+- Public outreach resources
+- Publication archive
+- Contact and collaboration information
+
+## Contact
+
+For any questions or support, please contact the project team through the website's contact form.
+
+---
+
+This website is maintained by the "New Religiosity and the Digital Study of Eudaimonia" project team.
