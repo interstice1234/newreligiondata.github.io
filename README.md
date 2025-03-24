@@ -1,6 +1,7 @@
 # New Religiosity and the Digital Study of Eudaimonia Website
 
-This is the official website for the Templeton project "New Religiosity and the Digital Study of Eudaimonia", built with Jekyll and hosted on GitHub Pages. Visit the website at: https://newreligiosity.org
+This is the official website for the Templeton project "New Religiosity and the Digital Study of Eudaimonia".
+Visit the website at: https://newreligiosity.org
 
 ## Project Overview
 
@@ -27,18 +28,8 @@ Experts receive an honorarium per completed and externally reviewed entry. If yo
 - `_sass/`: Stylesheets
 - `images/`: Image assets
 
-## Key Features
-
-- Project documentation
-- Timeline of project activities
-- Public outreach resources
-- Publication archive
-- Contact and collaboration information
 
 ## Contact
 
-For any questions or support, please contact the project team through the website's contact form.
-
----
-
-This website is maintained by the "New Religiosity and the Digital Study of Eudaimonia" project team.
+This website is maintained by the "New Religiosity and the Digital Study of Eudaimonia" project team. 
+For any questions or support, please contact the project team at: stephen.christopher@kcl.ac.uk
