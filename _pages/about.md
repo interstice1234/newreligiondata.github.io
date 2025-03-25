@@ -34,16 +34,12 @@ We have updated this definition to create an inclusion criteria for groups which
 ## WHAT IS EUDAIMONIA? 
 “Eudaimonia” is famously difficult to define, illustrated by Vittersø’s (2016) delineation of 41 definitions and his appeal for a multi-dimensional approach to identify aspects of long-term flourishing that exceed short-term hedonic pleasure. For this project, we extend the word of ethicists and social psychologists who examine “human flourishing” as conceptions of universal good, optimal experience and functioning, in all their diverse potentialities, as distinct from individually determined, subjective happiness and hedonic pleasure attainment. We will examine prosocial and health-promoting behavior often correlated with religiosity, such as volunteering, physical fitness, balanced nutrition, and fostering virtuous character traits, such as curiosity and growth mindsets. While these correlations are often researched at the level of individuals, we will examine the larger sociocultural patterning in which such beliefs and practices are produced, reproduced, and transformed at the group level. Our aim is to use archival and fieldwork data to close the gap between individual-level characteristics correlated with eudaimonia and the group environments that enculture such characteristics.
 
-## WHY DIGITAL HUMANITIES? 
-
-The use of quantitative measurements and digital tools to study religion has accelerated in the past decade. Our project extends this growing trend in the study of religion by creating a publicly available data set and integrated analytic tools to facilitate future studies. By creating the “New Religiosities Poll” (NRP) on the existing framework of the Database of Religious History (DRH) at the University of British Columbia, we will extend the analytic power of the database from largely premodern to the contemporary. 
-
 ![Ynglists celebrating Kupala with the ritual of the sword, in Omsk]({{site.baseurl}}/images/Kupala-Omsk-Perun-Sword-Fire.jpg)
 *Ynglists celebrating Kupala with the ritual of the sword, in Omsk, Omsk Oblast, Russia. 8 July 2016  Valdiswallace, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## WHY DIGITAL HUMANITIES? 
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+The use of quantitative measurements and digital tools to study religion has accelerated in the past decade. Our project extends this growing trend in the study of religion by creating a publicly available data set and integrated analytic tools to facilitate future studies. By creating the “New Religiosities Poll” (NRP) on the existing framework of the Database of Religious History (DRH) at the University of British Columbia, we will extend the analytic power of the database from largely premodern to the contemporary. 
 
 ## Core Project Team
 

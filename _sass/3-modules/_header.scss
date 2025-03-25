@@ -22,11 +22,11 @@
 .logo__link {
   padding: 8px 0;
   font-family: $heading-font-family;
-  font-size: 32px;
+  font-size: 40px;
   line-height: 1.2;
   font-weight: 800;
   transition: color .25s ease;
-  max-width: 400px;
+  max-width: 600px;
   white-space: normal;
   display: inline-block;
 }
@@ -38,7 +38,7 @@
 /* Nav */
 .main-nav {
 
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: $tablet) {
     position: fixed;
     top: 0;
     left: 0;
