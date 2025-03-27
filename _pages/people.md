@@ -69,7 +69,8 @@ permalink: /people/
 </div>
 <div class="person-info">
 <h3 class="person-name">William Noseworthy</h3>
-<p class="person-title">tbc</p>
+<p class="person-title">Managing Editor Database of Religious History</p>
+<p class="person-additional">Associate Cataloger at Cornell University Library, Cornell University</p>
 <a href="mailto:william.noseworthy@kcl.ac.uk" class="person-email">william.noseworthy@kcl.ac.uk</a>
 </div>
 </div>
