@@ -146,18 +146,6 @@ permalink: /people/
 <div class="people-grid">
 <div class="person-card">
 <div class="person-image">
-<img src="{{site.baseurl}}/images/people/erica-baffelli.jpg" alt="Erica Baffelli">
-</div>
-<div class="person-info">
-<h3 class="person-name">Erica Baffelli</h3>
-<p class="person-title">Professor</p>
-<p class="person-additional">The University of Manchester's Department of Japanese Studies<br>PI of Leverhulme Project 'Fear and Belonging in Minority Buddhist Communities' (2023-2027)</p>
-<a href="mailto:erica.baffelli@manchester.ac.uk" class="person-email">erica.baffelli@manchester.ac.uk</a>
-</div>
-</div>
-
-<div class="person-card">
-<div class="person-image">
 <img src="{{site.baseurl}}/images/people/eileen-barker.jpg" alt="Eileen Barker">
 </div>
 <div class="person-info">
