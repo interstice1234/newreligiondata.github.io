@@ -45,16 +45,22 @@
   .area-box {
     background-color: var(--background-color);
     border: 1px solid var(--border-color);
-    border-radius: 4px;
-    padding: 16px;
+    border-radius: 8px;
+    padding: 24px 16px;
+    min-width: 120px;
+    min-height: 70px;
     text-align: center;
     transition: all 0.3s ease;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-    
-    // Dark mode tweak
+    box-shadow: 0 2px 12px rgba(20,20,40,0.10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    // Elegant dark mode
     @media (prefers-color-scheme: dark) {
-      background-color: #18181d;
-      border-color: #252629;
+      background-color: rgba(44, 44, 57, 0.92);
+      border-color: #38384a;
+      box-shadow: 0 4px 16px rgba(20,20,40,0.25);
     }
 
     &:hover {
