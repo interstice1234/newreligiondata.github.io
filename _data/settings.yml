@@ -3,7 +3,7 @@
 title: >-
   New Religiosity and
   the Digital Study of Eudaimonia
-logo: # You can add own logo. For example '/images/logo.png'.
+# logo: images/NRE-logo.png
 description: A comprehensive study creating the world's largest open-access dataset on contemporary religious movements, examining their impact on human flourishing and societal wellbeing through innovative digital humanities methods.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
