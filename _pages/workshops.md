@@ -90,31 +90,31 @@ We also began to consider how to frame poll questions that are both generic enou
       <th>Date</th>
       <th>Session</th>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background);">
       <td rowspan="2">1 April 2025</td>
       <td>Session 1: Structuring the Poll</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background);">
       <td>Session 2: Health – Operationalizing Eudaimonia and avoiding negative bias</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background-alt-color);">
       <td rowspan="3">2 April 2025</td>
       <td>Session 1: Prosperity Gospel and Finances</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background-alt-color);">
       <td>Session 2: Islam</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background-alt-color);">
       <td>Session 3: Esotericism and Paganism</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background);">
       <td rowspan="3">3 April 2025</td>
       <td>Session 1: Japan</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background);">
       <td>Session 2: Minoritization and Security Concerns</td>
     </tr>
-    <tr style="background-color: #f7f7fa;">
+    <tr style="background-color: var(--background);">
       <td>Session 3: Dharmic Groups</td>
     </tr>
   </table>
@@ -123,31 +123,31 @@ We also began to consider how to frame poll questions that are both generic enou
 
 ### Participants
 
-- **Lucy Clarke**
+* **Lucy Clarke**
 PhD Candidate in Theology and Religious Studies, University of Kent
-- **Susannah Crockford**
+* **Susannah Crockford**
 Senior Lecturer in Anthropology, University of Exeter
-- **Daniel Nilsson DeHanas** 
+* **Daniel Nilsson DeHanas** 
 Reader in Politics and Religion, King’s College London
-- **Ros Downing**
-Inform Affiliate Researcher
-- **Ethan Doyle White**
+* **Ros Downing**
+* **Inform Affiliate Researcher**
+* **Ethan Doyle White**
 Tutor in Religious Studies, City Lit London
-- **Leslie Fesenmyer**
+* **Leslie Fesenmyer**
 Associate Professor in Social Anthropology and African Studies, University of Birmingham
-- **Matthew Francis**
+* **Matthew Francis**
 Professor of Security and Resilience, Coventry University
-- **Manon Hedenborg White**
+* **Manon Hedenborg White**
 Associate Professor of History of Religions, Malmö University, Sweden
-- **David Lehmann**
+* **David Lehmann**
 Emeritus Professor in Social Science, University of Cambridge
-- **Martin Lindhardt**
+* **Martin Lindhardt**
 Associate Professor, Department of Political Science and Public Management, University of Southern Denmark
-- **Hizer Mir**
+* **Hizer Mir**
 Lecturer in Sociology and Social Policy, University of Leeds
-- **Karen O'Brien-Kop**
+* **Karen O'Brien-Kop**
 Lecturer in Modern Asian Religions, King's College London
-- **Ruth Westoby**
+* **Ruth Westoby**
 Postdoctoral Research Fellow in Jaina Studies, Oxford Centre for Hindu Studies
 
 #### Advisory Board Members
