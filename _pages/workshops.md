@@ -67,4 +67,106 @@ Assistant Professor of Clinical Psychology (in Psychiatry), Columbia University
 ### Project Team Members
 * Suzanne Newcombe
 * Sarah Charles
-* Sarah Havey
+* Sarah Harvey
+
+***
+
+## ‘New Religiosity Poll’ Creation Workshops
+The New Religiosity Poll is being developed through a series of collaborative workshops. 
+We began this work by holding a series of sessions with experts on specific themes, topics and traditions coming from diverse disciplinary backgrounds and areas of study. These workshops and one-on-one discussions worked towards developing consensus about group inclusion criteria and definitions. 
+We also began to consider how to frame poll questions that are both generic enough to encompass the diversity of global traditions as well as specific enough to be able to potentially test relevant hypotheses about new religiosities.
+
+**Hybrid Brainstorming Workshops**
+**Dates:** 1-3 April 2025
+**Moderators:** Stephen Christopher and Suzanne Newcombe
+
+### Workshops Overview
+
+
+
+<div class="table-container">
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Session</th>
+    </tr>
+    <tr>
+      <td rowspan="2">1 April 2025</td>
+      <td>Session 1: Structuring the Poll</td>
+    </tr>
+    <tr>
+      <td>Session 2: Health – Operationalizing Eudaimonia and avoiding negative bias</td>
+    </tr>
+    <tr>
+      <td rowspan="3">2 April 2025</td>
+      <td>Session 1: Prosperity Gospel and Finances</td>
+    </tr>
+    <tr>
+      <td>Session 2: Islam</td>
+    </tr>
+    <tr>
+      <td>Session 3: Esotericism and Paganism</td>
+    </tr>
+    <tr>
+      <td rowspan="3">3 April 2025</td>
+      <td>Session 1: Japan</td>
+    </tr>
+    <tr>
+      <td>Session 2: Minoritization and Security Concerns</td>
+    </tr>
+    <tr>
+      <td>Session 3: Dharmic Groups</td>
+    </tr>
+  </table>
+</div>
+
+
+### Participants
+
+- **Lucy Clarke**
+PhD Candidate in Theology and Religious Studies, University of Kent
+- **Susannah Crockford**
+Senior Lecturer in Anthropology, University of Exeter
+- **Daniel Nilsson DeHanas** 
+Reader in Politics and Religion, King’s College London
+- **Ros Downing**
+Inform Affiliate Researcher
+- **Ethan Doyle White**
+Tutor in Religious Studies, City Lit London
+- **Leslie Fesenmyer**
+Associate Professor in Social Anthropology and African Studies, University of Birmingham
+- **Matthew Francis**
+Professor of Security and Resilience, Coventry University
+- **Manon Hedenborg White**
+Associate Professor of History of Religions, Malmö University, Sweden
+- **David Lehmann**
+Emeritus Professor in Social Science, University of Cambridge
+- **Martin Lindhardt**
+Associate Professor, Department of Political Science and Public Management, University of Southern Denmark
+- **Hizer Mir**
+Lecturer in Sociology and Social Policy, University of Leeds
+- **Karen O'Brien-Kop**
+Lecturer in Modern Asian Religions, King's College London
+- **Ruth Westoby**
+Postdoctoral Research Fellow in Jaina Studies, Oxford Centre for Hindu Studies
+
+#### Advisory Board Members
+
+- Eileen Barker
+- Veronika Huta
+- David Paul Johnson
+- Todd Kashdan
+- Yusuf Ransome
+- David Robertson
+- Prakirati Satasut
+- M. Afzal Upal
+- Joar Vittersø
+
+#### Project Team Members
+
+- Sarah Charles
+- Stephen Christopher
+- Sarah Harvey
+- Suzanne Newcombe
+- William Noseworthy
+- Edward Slingerland
