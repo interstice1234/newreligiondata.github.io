@@ -90,31 +90,31 @@ We also began to consider how to frame poll questions that are both generic enou
       <th>Date</th>
       <th>Session</th>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td rowspan="2">1 April 2025</td>
       <td>Session 1: Structuring the Poll</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td>Session 2: Health – Operationalizing Eudaimonia and avoiding negative bias</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td rowspan="3">2 April 2025</td>
       <td>Session 1: Prosperity Gospel and Finances</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td>Session 2: Islam</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td>Session 3: Esotericism and Paganism</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td rowspan="3">3 April 2025</td>
       <td>Session 1: Japan</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td>Session 2: Minoritization and Security Concerns</td>
     </tr>
-    <tr>
+    <tr style="background-color: #f7f7fa;">
       <td>Session 3: Dharmic Groups</td>
     </tr>
   </table>
