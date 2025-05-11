@@ -15,7 +15,7 @@ permalink: /people/
 </div>
 <div class="person-info">
 <h3 class="person-name">Stephen Christopher</h3>
-<p class="person-title">Visiting Research Fellow, Nicibunken (Kyoto)</p>
+<p class="person-title">Visiting Research Fellow, Nichibunken (Kyoto)</p>
 <p class="person-additional">Research Associate, Inform, based in Theology and Religious Studies at King's College London</p>
 <a href="mailto:stephen.christopher@kcl.ac.uk" class="person-email">stephen.christopher@kcl.ac.uk</a>
 </div>
