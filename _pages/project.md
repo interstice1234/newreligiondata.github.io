@@ -79,22 +79,43 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">April - August 2025</div>
-      <p class="timeline-text">Poll Design and follow-up meetings with target experts to operationalise variables.</p>
+      <div class="timeline-date">June - October 2025</div>
+      <p class="timeline-text">Iterative poll design and follow-up meetings with target experts to operationalise variables.</p>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">September 1-3, 2025</div>
-      <p class="timeline-text">Second 'New Religiosity Poll Creation Workshop.' Cambridge, Massachusetts (TBD). Complete a final draft of the NRP with approximately 900 questions.</p>
+      <div class="timeline-date">June 18, 2025</div>
+      <p class="timeline-text">Poll creation workshop on the theme of millenarian and apocalypticism with the members of the Centre for the Study of Apocalyptic and Millenarian Movements at the Faculty of Divinity, University of Cambridge.</p>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">September 15, 2025</div>
+      <div class="timeline-date">October 2025</div>
+      <p class="timeline-text">Incorporate section on esoteric practices led by Bernd-Christian Otto, Fellow at the The Center for Advanced Studies in the Humanities and Social Sciences Alternative Rationalities and Esoteric Practices from a Global Perspective in Germany.</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-date">November 1, 2025</div>
       <p class="timeline-text">Incorporate the NRP into the DRH mainframe</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-date">November 15, 2025</div>
+      <p class="timeline-text">Beta test 5 NRP entries</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-date">November 19-20, 2025</div>
+      <p class="timeline-text">Second 'New Religiosity Poll Creation Workshop.' Cambridge, Massachusetts. Complete a final draft of the NRP with approximately 900 questions.</p>
     </div>
   </div>
 

@@ -49,12 +49,12 @@ The use of quantitative measurements and digital tools to study religion has acc
 
 <div class="team-member">
 <h4>Stephen Christopher, PhD</h4>
-Visiting Fellow at the International Research Center for Japanese Studies (Nichibunken) in Kyoto. An anthropologist of religion studying how politics impact minority religions, with focus on India's tribal religions and Tibetan Buddhism in Asia. Dr. Christopher brings extensive experience in digital methods, citizen science, and Asian research networks, having contributed significantly to the DRH as a top editor since 2018.
+Research Associate at Inform, based at Theology and Religious Studies, King’s College London. He completed a Visiting Research Fellowship at Nichibunken in Kyoto (2024-25), a Marie Curie postdoc at the University of Copenhagen (2022-24) and a JSPS postdoc at Kyoto University (2019). He is Co-Editor of the journal Contemporary Buddhism. Stephen is an anthropologist of religion studying how politics impact minority religions, with focus on India's tribal religions and Tibetan Buddhism in Asia. He brings extensive experience in digital methods, citizen science, and Asian research networks, having contributed significantly to the DRH as a top editor since 2018.
 </div>
 
 <div class="team-member">
 <h4>Suzanne Newcombe, PhD</h4>
-Senior lecturer in religious studies at The Open University and honorary director of Inform. Expert in sociology and social history of religion, particularly modern yoga and new religious movements. Notable publications include the Routledge Handbook of Yoga and Meditation Studies (2020) and forthcoming work on religion and public health.
+Senior lecturer in religious studies at The Open University and honorary director of Inform. She researches new religiosity with the tools of sociology and social history and has a particular interest in the overlaps between religion and health. Recent publications include the co-edited (with Karen O’Brien-Kop) *<a href="https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781836245643">Religion, Spirituality and Public Health: Competing and Complementary Epistemes</a>* (2025) in the Proceedings of the British Academy Series with Liverpool University Press. 
 </div>
 
 <h3>Core Researchers</h3>
@@ -76,9 +76,8 @@ Managing Editor of the Database of Religious History and expert in minority reli
 
 <div class="team-member">
 <h4>Edward Slingerland, PhD</h4>
-Distinguished University Scholar and Professor of Philosophy at UBC, founding Director of the Database of Religious History (DRH). Leads the development of the New Religiosity Poll.
+Distinguished University Scholar and Professor of Philosophy at UBC, founding Director of the Database of Religious History (DRH). Oversees the integration of the New Religiosity Poll.
 </div>
-
 </div>
 
 <div class="team-link">

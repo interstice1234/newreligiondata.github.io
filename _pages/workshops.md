@@ -83,7 +83,6 @@ We also began to consider how to frame poll questions that are both generic enou
 ### Workshops Overview
 
 
-
 <div class="table-container">
   <table>
     <tr>
@@ -130,7 +129,7 @@ Senior Lecturer in Anthropology, University of Exeter
 * **Daniel Nilsson DeHanas** 
 Reader in Politics and Religion, King’s College London
 * **Ros Downing**
-* **Inform Affiliate Researcher**
+**Inform Affiliate Researcher**
 * **Ethan Doyle White**
 Tutor in Religious Studies, City Lit London
 * **Leslie Fesenmyer**
@@ -150,23 +149,22 @@ Lecturer in Modern Asian Religions, King's College London
 * **Ruth Westoby**
 Postdoctoral Research Fellow in Jaina Studies, Oxford Centre for Hindu Studies
 
-#### Advisory Board Members
+***
 
-- Eileen Barker
-- Veronika Huta
-- David Paul Johnson
-- Todd Kashdan
-- Yusuf Ransome
-- David Robertson
-- Prakirati Satasut
-- M. Afzal Upal
-- Joar Vittersø
+## Brainstorming Workshop on Apocalyptic and Millenarian Movements 
 
-#### Project Team Members
+**Dates**: 18 June 2025
+**Moderator**: Suzanne Newcombe
 
-- Sarah Charles
-- Stephen Christopher
-- Sarah Harvey
-- Suzanne Newcombe
-- William Noseworthy
-- Edward Slingerland
+**Participants**:
+
+* **James Crossley**
+Professor and Director of CenSAMM in the Faculty of Divinity, University of Cambridge. He is also Professor of Bible, Society and Politics at MF Oslo and Visiting Senior Research Fellow at King's College London
+* **Arial Hessyan**
+Reader in early modern history, Goldsmiths, University of London
+* **Alaisteir Lockhart**
+executive editor of the Critical Dictionary of Apocalyptic and Millenarian Movements, Director of Studies, Hughes Hall and Senior Postgraduate Tutor, Churchill College, University of Cambridge
+* **Justin Meggit**
+Professor of the Study of Religion and Director of Studies, Wolfson College, University of Cambridge and co-founder of the Centre for the Critical Study of Apocalyptic and Millenarian Movements
+* **Joseph Webser**
+Professor of the Anthropology of Religion, University of Cambridge, Fellow and Director of Studies in Social Anthropology, Downing College

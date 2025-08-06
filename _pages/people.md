@@ -71,7 +71,7 @@ permalink: /people/
 <h3 class="person-name">William Noseworthy</h3>
 <p class="person-title">Managing Editor Database of Religious History</p>
 <p class="person-additional">Associate Cataloger at Cornell University Library, Cornell University</p>
-<a href="mailto:william.noseworthy@kcl.ac.uk" class="person-email">william.noseworthy@kcl.ac.uk</a>
+<a href="mailto:professornoseworthy@gmail.com" class="person-email">professornoseworthy@gmail.com</a>
 </div>
 </div>
 

@@ -72,6 +72,24 @@ In Year Three, The Open University and Inform staff will host a seminar at King�
 <th>Presentation</th>
 </tr>
 <tr>
+<td>Nov 21–22, 2025</td>
+<td>19th Annual Conference on Asian Studies: Truths, Tensions, Technologies</td>
+<td>Palacký University Olomouc, Czech Republic</td>
+<td>“Quantitative Hypotheses Testing of New Religiosity and Human Flourishing/Social Tension.”</td>
+</tr>
+<tr>
+<td>Oct 2-4, 2025</td>
+<td>Japanese Studies Association of Australia</td>
+<td>University of New England New South Wales</td>
+<td>“The minoritization of Japanese New Religions: A large-scale, mixed-data approach.”</td>
+</tr>
+<tr>
+<td>Jul 8-12, 2025</td>
+<td>European Academy of Religion’s Eighth Annual Conference EuARe2025. Religion and Socio-Cultural Transformation: European Perspectives and Beyond</td>
+<td>University of Vienna</td>
+<td>“Jehovah's Witnesses in Europe: New Data, New Perspectives, New Expectations.”</td>
+</tr>
+<tr>
 <td>Oct 14-16, 2024</td>
 <td>18th Annual International Conference</td>
 <td>University of Warsaw, Poland</td>
