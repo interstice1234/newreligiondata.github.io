@@ -14,11 +14,12 @@ image_caption: "Scientology Life Improvement Centre, 2022. © Roy Katzenberg, CC
 <div class="publication-category">
 <h2>Essays, book reviews, blog posts, and newspaper articles</h2>
 <ul class="publication-list">
-<li>Chirstopher, Stephen and Suzanne Newcombe (2025) <a href="https://anthro.appstate.edu/news/exploring-how-new-religions-promote-or-hinder-well-being-new-john-templeton-foundation-grant">‘Exploring how new religions promote or hinder well-being: A new John Templeton Foundation Grant’</a>. 29 April. Department of Anthropology, Appalachian State University, USA. 
+<li>Christopher, Stephen and Suzanne Newcombe (2025) <a href="https://anthro.appstate.edu/news/exploring-how-new-religions-promote-or-hinder-well-being-new-john-templeton-foundation-grant">‘Exploring how new religions promote or hinder well-being: A new John Templeton Foundation Grant’</a>. 29 April. Department of Anthropology, Appalachian State University, USA.</li>
 
 <li>Newcombe, Suzanne and Stephen Christopher (2025) <a href="https://www.open.ac.uk/blogs/religious-studies/?p=1920">'Mapping Modern Faith and Human Flourishing – a new research project'</a>, 29 April. Contemporary Religion in Historical Perspective, Department of Religious Studies Blog, The Open University (UK)</li>
 </ul>
 </div>
+
 <div class="publication-category">
 <h2>Podcast interviews and recorded guest lectures</h2>
 <p class="forthcoming">Forthcoming</p>

@@ -54,7 +54,7 @@ Research Associate at Inform, based at Theology and Religious Studies, King’s 
 
 <div class="team-member">
 <h4>Suzanne Newcombe, PhD</h4>
-Senior lecturer in religious studies at The Open University and honorary director of Inform. She researches new religiosity with the tools of sociology and social history and has a particular interest in the overlaps between religion and health. Recent publications include the co-edited (with Karen O’Brien-Kop) *<a href="https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781836245643">Religion, Spirituality and Public Health: Competing and Complementary Epistemes</a>* (2025) in the Proceedings of the British Academy Series with Liverpool University Press. 
+Senior lecturer in religious studies at The Open University and honorary director of Inform. She researches new religiosity with the tools of sociology and social history and has a particular interest in the overlaps between religion and health. Recent publications include the co-edited (with Karen O’Brien-Kop) <em><a href="https://www.liverpooluniversitypress.co.uk/doi/book/10.3828/9781836245643">Religion, Spirituality and Public Health: Competing and Complementary Epistemes</a></em> (2025) in the Proceedings of the British Academy Series with Liverpool University Press. 
 </div>
 
 <h3>Core Researchers</h3>
