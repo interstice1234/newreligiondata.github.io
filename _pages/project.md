@@ -93,14 +93,7 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">October 2025</div>
-      <p class="timeline-text">Incorporate section on esoteric practices led by Bernd-Christian Otto, Fellow at the The Center for Advanced Studies in the Humanities and Social Sciences Alternative Rationalities and Esoteric Practices from a Global Perspective in Germany.</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-date">November 1, 2025</div>
+      <div class="timeline-date">December 2025</div>
       <p class="timeline-text">Incorporate the NRP into the DRH mainframe</p>
     </div>
   </div>
@@ -115,13 +108,20 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
   <div class="timeline-item">
     <div class="timeline-content">
       <div class="timeline-date">November 19-20, 2025</div>
-      <p class="timeline-text">Second 'New Religiosity Poll Creation Workshop.' Cambridge, Massachusetts. Complete a final draft of the NRP with approximately 900 questions.</p>
+      <p class="timeline-text">Second 'New Religiosity Poll Creation Workshop.' Boston, Massachusetts. Complete a final draft of the NRP with approximately 900 questions.</p>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">December 15, 2025</div>
+      <div class="timeline-date">December 28, 2025</div>
+      <p class="timeline-text">Translate the NRP into Thai and Vietnamese</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-date">Jauary 31, 2026</div>
       <p class="timeline-text">Complete 20 beta testing entries from Inform's archive to ensure technical success and by iteratively refining questions to ensure validity of the DRH tools.</p>
     </div>
   </div>

@@ -43,6 +43,7 @@ permalink: /people/
 <div class="person-image">
 <img src="{{site.baseurl}}/images/people/sarah-charles.jpg" alt="Sarah Charles">
 </div>
+
 <div class="person-info">
 <h3 class="person-name">Sarah Charles</h3>
 <p class="person-title">Former Research Fellow at Nottingham Trent University (UK)</p>
@@ -69,9 +70,9 @@ permalink: /people/
 </div>
 <div class="person-info">
 <h3 class="person-name">William Noseworthy</h3>
-<p class="person-title">Managing Editor Database of Religious History</p>
+<p class="person-title">External Project Coordinator</p>
 <p class="person-additional">Associate Cataloger at Cornell University Library, Cornell University</p>
-<a href="mailto:professornoseworthy@gmail.com" class="person-email">professornoseworthy@gmail.com</a>
+<a href="mailto:wn64@cornell.edu" class="person-email">wn64@cornell.edu</a>
 </div>
 </div>
 
@@ -86,6 +87,19 @@ permalink: /people/
 <a href="mailto:edward.slingerland@ubc.ca" class="person-email">edward.slingerland@ubc.ca</a>
 </div>
 </div>
+
+<div class="person-card">
+<div class="person-image">
+<img src="{{site.baseurl}}/images/people/Hoang-Ngoc-An.png" alt="Hoang Ngoc An">
+</div>
+<div class="person-info">
+<h3 class="person-name">Hoang Ngoc An</h3>
+<p class="person-title">M.A. from Columbia University</p>
+<p class="person-additional">Fulbright Vietnamese Student Program awardee</p>
+<a href="mailto:adrienehoang@gmail.com" class="person-email">adrienehoang@gmail.com</a>
+</div>
+</div>
+
 </div>
 </div>
 

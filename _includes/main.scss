@@ -44,7 +44,6 @@
 @import '0-settings/mixins';
 @import '0-settings/helpers';
 
-
 /* =======================
 :: 1-Tools and Libs
 ======================= */
@@ -63,13 +62,11 @@
 /* >>>>>>>>>>>>>> :: 1.7-Animate <<<<<<<<<<<<<<< */
 @import '1-tools/animate';
 
-
 /* =======================
 :: 2-Base Styles
 ======================= */
 /* >>>>>>>>>>>>>> :: 2.1-Base <<<<<<<<<<<<<<< */
 @import '2-base/base';
-
 
 /* =======================
 :: 3-Modules
@@ -102,13 +99,11 @@
 @import '3-modules/publications';
 /* >>>>>>>>>>>>>> :: 3.13-Outreach <<<<<<<<<<<<<<< */
 @import '3-modules/outreach';
-@import '3-modules/publications';
-/* >>>>>>>>>>>>>> :: 3.13-People <<<<<<<<<<<<<<< */
 @import '3-modules/people';
-/* >>>>>>>>>>>>>> :: 3.13-Footer <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.13-Images <<<<<<<<<<<<<<< */
 @import '3-modules/images';
+/* >>>>>>>>>>>>>> :: 3.13-Footer <<<<<<<<<<<<<<< */
 @import '3-modules/footer';
-
 
 /* =======================
 :: 4-Layouts
