@@ -22,8 +22,10 @@ We will host an exhibition exploring the recent spread of Tibetan Buddhism in Vi
 
 ![Hai An Gallery Logo]({{ site.baseurl }}/images/Haian-gallery.png)
 
-![Hai An Gallery]({{ site.baseurl }}/images/Haian-Gallery-full.png)
-*A 2021 exhibition at Hai An Gallery called "The Fragrance of Motherland" displaying 100 calligraphy works by Zen master Thích Nhất Hạnh.* 
+<figure class="full-width">
+  <img src="{{ site.baseurl }}/images/Haian-Gallery-full.png" alt="Hai An Gallery">
+  <figcaption>A 2021 exhibition at Hai An Gallery called "The Fragrance of Motherland" displaying 100 calligraphy works by Zen master Thích Nhất Hạnh.</figcaption>
+</figure>
 
 ### Exhibition Co-Curator
 <div class="profile-info">
