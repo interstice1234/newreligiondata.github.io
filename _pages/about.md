@@ -60,6 +60,11 @@ Senior lecturer in religious studies at The Open University and honorary directo
 <h3>Core Researchers</h3>
 
 <div class="team-member">
+<h4>Hoàng Ngọc An</h4>
+Museum curator and qualitative researcher about minority religions in Southeast Asia. Completed a Fulbright-funded Master's Degree at Columbia University. Recently published in Anthropological Quarterly, The Journal of Vietnamese Studies, Contemporary Buddhism and Asian Ethnology.
+</div>
+
+<div class="team-member">
 <h4>Sarah Charles, PhD</h4>
 Visiting scholar at Coventry University's Centre for Trust, Peace, and Social Relations. Specializes in the psychobiology of ritual social bonding and well-being in religious contexts. Media officer for the International Association for the Psychology of Religion.
 </div>
@@ -67,6 +72,11 @@ Visiting scholar at Coventry University's Centre for Trust, Peace, and Social Re
 <div class="team-member">
 <h4>Sarah Harvey, PhD</h4>
 Senior research officer at Inform with expertise in new religious movements, focusing on gender, abuse, health, and healing. Manages Inform's extensive database of religious movements and leads research on abuse in minority religions.
+</div>
+
+<div class="team-member">
+<h4>Lam Khau</h4>
+Ethnographic filmmaker with a Film Studies degree from Fulbright University Vietnam.
 </div>
 
 <div class="team-member">
