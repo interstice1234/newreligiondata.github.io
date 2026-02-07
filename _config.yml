@@ -51,4 +51,7 @@ exclude:
 
 sass:
   sass_dir: _sass
+    sass:
   style: compressed
+  quiet_deps: true
+  quiet_deps: true

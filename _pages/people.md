@@ -39,11 +39,23 @@ permalink: /people/
 <div class="people-section">
 <h2 class="section-heading">Core Team Members</h2>
 <div class="people-grid">
+
+<div class="person-card">
+<div class="person-image">
+<img src="{{site.baseurl}}/images/people/Hoang-Ngoc-An.png" alt="Hoang Ngoc An">
+</div>
+<div class="person-info">
+<h3 class="person-name">Hoang Ngoc An</h3>
+<p class="person-title">M.A. from Columbia University</p>
+<p class="person-additional">Fulbright Vietnamese Student Program awardee</p>
+<a href="mailto:adrienehoang@gmail.com" class="person-email">adrienehoang@gmail.com</a>
+</div>
+</div>
+
 <div class="person-card">
 <div class="person-image">
 <img src="{{site.baseurl}}/images/people/sarah-charles.jpg" alt="Sarah Charles">
 </div>
-
 <div class="person-info">
 <h3 class="person-name">Sarah Charles</h3>
 <p class="person-title">Former Research Fellow at Nottingham Trent University (UK)</p>
@@ -85,18 +97,6 @@ permalink: /people/
 <p class="person-title">Distinguished University Professor</p>
 <p class="person-additional">University of British Columbia's Department of Philosophy<br>Director, Database of Religious History (DRH)</p>
 <a href="mailto:edward.slingerland@ubc.ca" class="person-email">edward.slingerland@ubc.ca</a>
-</div>
-</div>
-
-<div class="person-card">
-<div class="person-image">
-<img src="{{site.baseurl}}/images/people/Hoang-Ngoc-An.png" alt="Hoang Ngoc An">
-</div>
-<div class="person-info">
-<h3 class="person-name">Hoang Ngoc An</h3>
-<p class="person-title">M.A. from Columbia University</p>
-<p class="person-additional">Fulbright Vietnamese Student Program awardee</p>
-<a href="mailto:adrienehoang@gmail.com" class="person-email">adrienehoang@gmail.com</a>
 </div>
 </div>
 
@@ -158,6 +158,7 @@ permalink: /people/
 
 <h3 class="subsection-heading">New Religions Scholars</h3>
 <div class="people-grid">
+
 <div class="person-card">
 <div class="person-image">
 <img src="{{site.baseurl}}/images/people/eileen-barker.jpg" alt="Eileen Barker">
@@ -167,6 +168,20 @@ permalink: /people/
 <p class="person-title">Professor Emeritus</p>
 <p class="person-additional">The London School of Economics and Political Science's Department of Sociology<br>Founder of INFORM (Information Network Focus on Religious Movements)</p>
 <a href="mailto:e.barker@lse.ac.uk" class="person-email">e.barker@lse.ac.uk</a>
+</div>
+</div>
+
+<div class="person-card">
+<div class="person-image">
+<img src="{{site.baseurl}}/images/people/tristan-kapp.jpg" alt="Tristán Kapp">
+</div>
+<div class="person-info">
+<h3 class="person-name">Tristán Kapp</h3>
+<p class="person-title">Associate Researcher</p>
+<p class="person-additional">University of Pretoria's Department Religion Studies<br>
+Executive Spokesperson, South African Pagan Rights Alliance (SAPRA)<br>
+Co-Editor: Journal for the Study of Religion in Southern Africa (JSR)</p>
+<a href="mailto:mashatd@unisa.ac.za" class="person-email">tristan.kapp@up.ac.za</a>
 </div>
 </div>
 

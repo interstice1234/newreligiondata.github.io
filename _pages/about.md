@@ -71,7 +71,7 @@ Senior research officer at Inform with expertise in new religious movements, foc
 
 <div class="team-member">
 <h4>William B. Noseworthy, PhD</h4>
-Managing Editor of the Database of Religious History and expert in minority religions of Southeast Asia. Brings extensive experience in cross-disciplinary research platforms and data management from Cornell University Library.
+External Project Manager at the Database of Religious History and expert in minority religions of Southeast Asia. Brings extensive experience in cross-disciplinary research platforms and data management from Cornell University Library.
 </div>
 
 <div class="team-member">

@@ -43,7 +43,10 @@ image_caption: "L'église du Christianisme Céleste Baptismal Ceremony in Benin,
 ## Detailed Project Activities
 
 ### Phase 1: Poll Creation {#phase-1}
-The core team members, in consultation with advisory board members and outside scholars, will create the “New Religiosities Poll” (NRP) for the Database of Religious History at the University of British Columbia. We will host two NRP workshops in Year One in order to discuss how to operationalize key variables that will be assessed at the group- or movement-level. We will create poll questions generic enough to encompass cross-regional religious diversities and specific enough to test hypotheses and explore new variable correlations. To avoid data bias through jargon or leading questions, we will discuss epistemic frameworks and language use to strive towards neutrality across all entries. The final form of the NRP will have about 900 quantitative options and a typical entry will have around 350 completed answers. Most questions will be answered by three potential responses: 1) yes/no/field doesn’t know/I don’t know; 2) selecting from a checklist of possible responses; and 3) giving a numerical response. These questions allow for data to be formatted for machine-readability and analyzed through quantitative methods. There will also be space for qualitative elaborations and links to external discursive sources. 
+The core team members, in consultation with advisory board members and outside scholars, have created the “New Religiosities Poll” (NRP) for the Database of Religious History at the University of British Columbia. 
+The poll can be viewed here: [The Database of Religious History](https://www.inform.org/new-religiosities-poll). 
+We hosted a series of NRP workshops in Year One in order to discuss how to operationalize key variables that will be assessed at the group- or movement-level. We created poll questions generic enough to encompass cross-regional religious diversities and specific enough to test hypotheses and explore new variable correlations. To avoid data bias through jargon or leading questions, we discussed epistemic frameworks and language use to strive towards neutrality across all entries. The final form of the NRP has about 900 quantitative options and a typical entry will have around 350-500 completed answers. Most questions are answered with a simple ‘Yes’ or ‘No’ responses: These questions allow for data to be formatted for machine-readability and analyzed through quantitative methods. There is also space for qualitative notes and links to external material.
+
 
 ### Phase 2: Data Collection {#phase-2}
 Inform staff, under the supervision of Director Newcombe (co-PI) and Senior Research Officer Harvey, will input 200 entries to the New Religiosity Poll (NRP). The other 200 entries will be collected by scholars and citizen scientists in South, East, and Southeast Asia, led by Dr. Christopher (co-PI). The NRP will follow the model of the DRH’s existing Religious Group Poll that relies on the expertise of typically a trained historian, sociologist, anthropologist, or religious studies scholar to complete a specific entry. We will also utilize a citizen science paradigm to train people within groups to complete entries. In most cases, experts will already have the requisite knowledge to complete the NRP poll; however, in some instances, they may complete small-scale archival or follow-up ethnographic fieldwork to gather targeted data, as needed. 
@@ -100,13 +103,6 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">November 15, 2025</div>
-      <p class="timeline-text">Beta test 5 NRP entries</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-content">
       <div class="timeline-date">November 19-20, 2025</div>
       <p class="timeline-text">Second 'New Religiosity Poll Creation Workshop.' Boston, Massachusetts. Complete a final draft of the NRP with approximately 900 questions.</p>
     </div>
@@ -119,17 +115,24 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
     </div>
   </div>
 
-  <div class="timeline-item">
+<div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">Jauary 31, 2026</div>
-      <p class="timeline-text">Complete 20 beta testing entries from Inform's archive to ensure technical success and by iteratively refining questions to ensure validity of the DRH tools.</p>
+      <div class="timeline-date">January 2, 2026</div>
+      <p class="timeline-text">Widespread recruitment and group entry phase begins (200 entries from Inform's archive and 200 entries from fieldwork, citizen science and scholarly recruitment).</p>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">January 2, 2026</div>
+      <div class="timeline-date">January-June 2026</div>
       <p class="timeline-text">Widespread recruitment and group entry phase begins (200 entries from Inform's archive and 200 entries from fieldwork, citizen science and scholarly recruitment).</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <div class="timeline-date">January 31, 2026</div>
+      <p class="timeline-text">Complete 20 beta testing entries from Inform's archive to ensure technical success and by iteratively refining questions to ensure validity of the DRH tools.</p>
     </div>
   </div>
 
