@@ -50,6 +50,6 @@ exclude:
   - package-lock.json
 
 sass:
-  sass_dir: .
+  sass_dir: _sass
   style: compressed
   quiet_deps: true
