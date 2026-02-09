@@ -6,54 +6,6 @@ image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
 image_caption: "Shinchonji hosted the 6th Shinchonji National Olympiad in Olympic Stadium in Seoul, Republic of Korea, 16 September 2012. Junganghansik, CC BY-SA 3.0."
 ---
 
-## Exhibition
-
-### Upcoming Exhibition at Hai An Gallery
-**Date:** March-April 2026  
-**Location:** Ho Chi Minh City  
-**Duration:** 45 days
-
-We will host an exhibition exploring the recent spread of Tibetan Buddhism in Vietnam and its intersection with personal well-being and large-scale economic transformations. Co-curated by Hoang Ngoc An and Stephen Christopher, this exhibition aims to:
-
-- Foster dialogue with experts worldwide about DRH, Inform, and digital humanities
-- Visualize DRH data on Vietnamese new religiosity
-- Engage local experts who have contributed NRP entries
-- Promote Digital Humanities methodologies in Southeast Asia 
-
-![Hai An Gallery Logo]({{ site.baseurl }}/images/Haian-gallery.png)
-
-![Hai An Gallery]({{ site.baseurl }}/images/Haian-Gallery-full.png)
-*A 2021 exhibition at Hai An Gallery called "The Fragrance of Motherland" displaying 100 calligraphy works by Zen master Thích Nhất Hạnh.* 
-
-### Exhibition Co-Curator
-<div class="profile-info">
-<h4>Hoang Ngoc An</h4>
-<p>Graduate student in Museum Anthropology at Columbia University and recipient of the Fulbright Vietnamese Student Program (2024-2025). An has co-published on queer politics and minority religions, working with international research groups including USAID and The European Commission. She curated Vietnam's first exhibition series on transgender experiences (2019-2022) and coordinated content for a post-war reconciliation exhibit at the War Remnants Museum (2022).</p>
-</div>
-
-## Sacred Remix: Buddhist Connections Across Time and Space
-
-**Timeline:** March to April 2026 (45 days, tentatively)  
-**Location:** <a href="https://haiangallery.vn/">Hai An Gallery</a>, 2B Nguyen Thi Minh Khai, District 1, Ho Chi Minh City  
-
----
-
-**Sacred Remix: Buddhist Connections Across Time and Space** is an anthropological exhibition that explores the growing presence of Vajrayana Buddhism in contemporary Vietnam. It is based on the ethnographic research conducted in Vietnam from 2018–2024 by Dr. Stephen Christopher (King's College London) and Hoang Ngoc An (Columbia University). The exhibition is done in collaboration with Vajrayana Buddhist practitioners and institutions within Vietnam. By highlighting the diversity of voices and perspectives in Vietnamese Vajrayana Buddhism, this exhibition is grounded in an anthropological approach.  
-
----
-
-The exhibition is organized into five sections.  
-
-Section One, **Navigating**, is organized around a mandala that represents Buddhist cosmology and the four cardinal directions. Visitors move clockwise around the mandala and learn about Vajrayana Buddhism in the Himalayas, Vajrayana Buddhism in Vietnam, Vietnamese Buddhism and Vietnamese Vajrayana.  
-
-Section Two, **Emitting**, is organized around a large circle of big rocks covered by a pile of prayer flags. Visitors can go under the prayer flags, sit in the rock circle, and meditate or use singing bowls. The prayer flags flutter in the wind, radiating prayers in a geometrical circle. Similarly, this section explores the social media and pop cultural expressions of Vajrayana Buddhism in Vietnam. As these expressions go viral, they spread out into digital space like prayers emitted from the prayer flags.  
-
-Section Three, **Attracting**, is entered via a gate of the Eight Auspicious Symbols of Vajrayana Buddhism (ashtamangala). The section focuses on Jambhala, the wealth-attracting deity, and the symbolism of the ashtamangala. We explore the popularization of Jambhala in pop culture and ritual contexts.  
-
-Section Four, **Spinning**, is organized around 5 prayer wheels mounted on a wooden frame. Conceptually, spinning the prayer wheel in Vajrayana Buddhism is a reminder of impermanence, a practice for purifying negative thoughts and karma, and a technique for sending out positive energy to all sentient beings. In this section, spinning is a metaphor for the indigenization of Vajrayana Buddhism within a Vietnamese context. Each rotation symbolizes how Buddhist teachings move through different cultural contexts, picking up local wisdom, languages, and practices while continuously returning to the same sacred center. The prayer wheel maintains its purpose when spun by different hands in different environments.  
-
-Section Five, **Tying**, is organized around the red and orange strings tied around the wrist after a Vajrayana Buddhist ritual. Our team will assemble a grid from the ceiling and walls. We will then tie red and orange string to the grid in such a way that creates an outline of geometric patterns. This outline will provide the framework for visitors to use red and orange strings to weave their own patterns into space. Conceptually, the red string installation gestures towards Chiharu Shiota's work on the interconnections of memory and history. In a Vajrayana Buddhist context, the red and orange strings represent protection from negative energy and illness. In this section, we explore how Vajrayana Buddhism has provided protection and healing to Vietnamese people and the Vietnamese landscape, and helped to liberate wandering ghosts from wartime.
-
 ## Course Creation
 
 ### OpenLearn Online Course
