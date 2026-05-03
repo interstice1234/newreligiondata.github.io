@@ -35,6 +35,34 @@ In Year Three, The Open University and Inform staff will host a seminar at Kingâ
 </tr>
 
 <tr>
+<td>November 2026</td>
+<td>American Academy of Religion Annual Meeting, New Religious Movements Unit</td>
+<td>Colorado, USA</td>
+<td>"The Future of Cultic Milieus and Public Platforms? Interaction Rituals, New Religiosity and 'Radicalisation' at Speakers' Corner"</td>
+</tr>
+
+<tr>
+<td>June 29 - July 1, 2026</td>
+<td>BSA Sociology of Religion Study Group Annual Conference</td>
+<td>University of Nottingham, UK</td>
+<td>"New Religiosities, Abuse and Correlating Variables: Using the Database of Religious History for Theory Testing"</td>
+</tr>
+
+<tr>
+<td>June 25, 2026</td>
+<td>American Academy of Religion Annual Meeting, New Religious Movements Unit</td>
+<td>Online</td>
+<td>"Regulating Tibetan Buddhist New Religiosity in Late-Socialist Vietnam."</td>
+</tr>
+
+<tr>
+<td>June 3, 2026</td>
+<td>Anthropology Department, American Museum of Natural History (AMNH)</td>
+<td>New York</td>
+<td>"Curating New Religiosity: Tibetan Buddhism and the Making of Public Knowledge in Vietnam."</td>
+</tr>
+
+<tr>
 <td>April 8, 2026</td>
 <td>British Sociological Association Annual Conference</td>
 <td>Manchester, UK</td>

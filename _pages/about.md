@@ -76,7 +76,7 @@ Senior research officer at Inform with expertise in new religious movements, foc
 
 <div class="team-member">
 <h4>Lam Khau</h4>
-Ethnographic filmmaker with a Film Studies degree from Fulbright University Vietnam.
+Ethnographic filmmaker, graduate of Fulbright University Vietnam.
 </div>
 
 <div class="team-member">

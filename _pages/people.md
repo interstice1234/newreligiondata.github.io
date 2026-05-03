@@ -220,6 +220,18 @@ Co-Editor: Journal for the Study of Religion in Southern Africa (JSR)</p>
 <a href="mailto:prakirati@gmail.com" class="person-email">prakirati@gmail.com</a>
 </div>
 </div>
+
+<div class="person-card">
+<div class="person-image">
+<img src="{{site.baseurl}}/images/people/minkyu-lee.jpg" alt="Minkyu Lee">
+</div>
+<div class="person-info">
+<h3 class="person-name">Minkyu Lee</h3>
+<p class="person-title">Researcher, Institute for African Studies, Yonsei University</p>
+<p class="person-additional">Postdoctoral Fellow, University of South Africa (UNISA)</p>
+<a href="mailto:minkyu.lee@yonsei.ac.kr" class="person-email">minkyu.lee@yonsei.ac.kr</a>
+</div>
+</div>
 </div>
 
 <h3 class="subsection-heading">Digital Humanities and Citizen Science</h3>

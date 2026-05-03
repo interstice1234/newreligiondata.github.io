@@ -110,15 +110,8 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <div class="timeline-date">December 28, 2025</div>
-      <p class="timeline-text">Translate the NRP into Thai and Vietnamese</p>
-    </div>
-  </div>
-
-<div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-date">January 2, 2026</div>
-      <p class="timeline-text">Widespread recruitment and group entry phase begins (200 entries from Inform's archive and 200 entries from fieldwork, citizen science and scholarly recruitment).</p>
+      <div class="timeline-date">January 2026</div>
+      <p class="timeline-text">Translate the NRP into French, Hindi, Japanese, Korean, Portuguese, Spanish, Thai and Vietnamese</p>
     </div>
   </div>
 
@@ -126,13 +119,6 @@ After collecting data on 400 entries, we will provisionally map out inter-relati
     <div class="timeline-content">
       <div class="timeline-date">January-June 2026</div>
       <p class="timeline-text">Widespread recruitment and group entry phase begins (200 entries from Inform's archive and 200 entries from fieldwork, citizen science and scholarly recruitment).</p>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-date">January 31, 2026</div>
-      <p class="timeline-text">Complete 20 beta testing entries from Inform's archive to ensure technical success and by iteratively refining questions to ensure validity of the DRH tools.</p>
     </div>
   </div>
 

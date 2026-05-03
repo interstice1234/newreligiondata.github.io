@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
+title: Poll Creation Workshops
 permalink: /workshops/
 ---
 
