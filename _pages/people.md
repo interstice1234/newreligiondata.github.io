@@ -228,8 +228,8 @@ Co-Editor: Journal for the Study of Religion in Southern Africa (JSR)</p>
 <div class="person-info">
 <h3 class="person-name">Minkyu Lee</h3>
 <p class="person-title">Researcher, Institute for African Studies, Yonsei University</p>
-<p class="person-additional">Postdoctoral Fellow, University of South Africa (UNISA)</p>
-<a href="mailto:minkyu.lee@yonsei.ac.kr" class="person-email">minkyu.lee@yonsei.ac.kr</a>
+<p class="person-additional"></p>
+<a href="mailto:mklee715@hanmail.net" class="person-email">mklee715@hanmail.net</a>
 </div>
 </div>
 </div>
