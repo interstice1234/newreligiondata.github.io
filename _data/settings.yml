@@ -42,7 +42,7 @@ menu__settings:
       image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
     - title: 'Exhibition'
       url: '/exhibition/'
-      description: 'Exhibition on new religious movements and human flourishing'
+      description: "Tracing Tibetan Buddhism's imprint across Vietnam, from temple to digital media"
       image: '/images/museum-exhibition.jpg'
     - title: 'DRH Database'
       url: '/database/'

@@ -3,19 +3,13 @@ layout: page
 title: Exhibition
 permalink: /exhibition/
 image: '/images/museum-exhibition.jpg'
-description: 'Exhibition on new religious movements and human flourishing'
+description: 'Duyên Linh: The Imprint of Buddhism Across Time'
 ---
 
-Explore the project's museum exhibition on new religious movements and human flourishing through four sections:
+**Duyên Linh: The Imprint of Buddhism Across Time** traces the evolving presence of Tibetan Buddhism in Vietnam, from temple statues and scroll paintings to prayer flags, monk robes, and digital media. Structured around five Buddhist ideas — navigating, attracting, emitting, spinning, and tying — the exhibition shows how these traditions are practiced in everyday life through personal stories, lived experience, and creative expressions of faith. Curated by Hoàng Ngọc An and Stephen Christopher, it was shown at the Hải An Gallery in Hồ Chí Minh City (March–May 2026) and continues here as a virtual exhibition.
 
-* [Ethnographic Short Films](#films) — 12 short films documenting contemporary religious communities
-* [Educational Resource Packet](#packet) — a 50-page classroom resource
-* [3D Walkthrough](#walkthrough) — an interactive virtual tour of the exhibition
-* [Publications](#publications) — articles and books related to the exhibition
-
-***
-
-## Ethnographic Short Films {#films}
+<details name="exhibition" class="exhibition-section" markdown="1">
+<summary>Ethnographic Short Films</summary>
 
 Twelve short films documenting contemporary religious communities, produced as part of the exhibition. Videos will be added here as they become available.
 
@@ -32,9 +26,10 @@ Twelve short films documenting contemporary religious communities, produced as p
 {% endfor %}
 </div>
 
-***
+</details>
 
-## Educational Resource Packet {#packet}
+<details name="exhibition" class="exhibition-section" markdown="1">
+<summary>Educational Resource Packet</summary>
 
 A 50-page educational resource packet prepared for the exhibition.
 
@@ -42,20 +37,24 @@ A 50-page educational resource packet prepared for the exhibition.
 
 <iframe src="{{ site.baseurl }}/files/DUYEN-LINH-Educational-Packet.pdf" class="pdf-embed" title="Educational Resource Packet"></iframe>
 
-***
+</details>
 
-## 3D Walkthrough {#walkthrough}
+<details name="exhibition" class="exhibition-section" markdown="1">
+<summary>3D Walkthrough</summary>
 
-Explore the exhibition in an interactive 3D walkthrough.
+Explore the exhibition in an interactive 3D walkthrough. It plays audio, so it only loads once you press play below.
 
 <p><a class="button button--primary" href="https://exhibition.newreligiosity.org/" target="_blank" rel="noopener">Open 3D Walkthrough in a new tab</a></p>
 
-<iframe src="https://exhibition.newreligiosity.org/" class="walkthrough-embed" title="3D Exhibition Walkthrough" allowfullscreen></iframe>
-<p class="walkthrough-note">If the walkthrough does not load above, use the link to open it directly.</p>
+<div class="walkthrough-embed">
+  <button type="button" class="walkthrough-play" onclick="var f=document.createElement('iframe');f.src='https://exhibition.newreligiosity.org/';f.title='3D Exhibition Walkthrough';f.className='walkthrough-embed';f.allowFullscreen=true;this.parentElement.replaceWith(f);">▶ Play 3D Walkthrough</button>
+</div>
+<p class="walkthrough-note">Includes audio — starts only when you press play.</p>
 
-***
+</details>
 
-## Publications {#publications}
+<details name="exhibition" class="exhibition-section" markdown="1">
+<summary>Publications</summary>
 
 <div class="publication-category">
 <h2>Article</h2>
@@ -67,7 +66,50 @@ Explore the exhibition in an interactive 3D walkthrough.
 <p class="forthcoming">Forthcoming</p>
 </div>
 
+</details>
+
 <style>
+.exhibition-section {
+  border: 1px solid var(--border-color);
+  border-radius: var(--global-radius, 8px);
+  padding: 20px 24px;
+  margin-top: 16px;
+  transition: border-color .35s;
+}
+.exhibition-section[open] {
+  border-color: var(--brand-color);
+}
+.exhibition-section summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--heading-font-family, inherit);
+  font-size: 1.4em;
+  font-weight: 800;
+  color: var(--heading-font-color);
+}
+.exhibition-section summary::-webkit-details-marker { display: none; }
+.exhibition-section summary::after {
+  content: "+";
+  font-size: 1em;
+  color: var(--brand-color);
+  transition: transform .35s;
+  flex: none;
+  margin-left: 16px;
+}
+.exhibition-section[open] summary::after {
+  transform: rotate(45deg);
+}
+.exhibition-section summary:hover {
+  color: var(--link-color-hover);
+}
+.exhibition-section[open] summary {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border-color);
+}
 .video-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -96,22 +138,38 @@ Explore the exhibition in an interactive 3D walkthrough.
   justify-content: center;
   text-align: center;
   margin: 0;
-  color: var(--text-color-light, inherit);
+  color: var(--text-alt-color);
   opacity: 0.6;
 }
 .pdf-embed {
   width: 100%;
   height: 90vh;
-  border: 1px solid var(--border-color, #ccc);
+  border: 1px solid var(--border-color);
   border-radius: 8px;
   margin-top: 16px;
 }
 .walkthrough-embed {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   height: 80vh;
-  border: 1px solid var(--border-color, #ccc);
+  border: 1px solid var(--border-color);
   border-radius: 8px;
   margin-top: 16px;
+  background: var(--background-alt-color);
+}
+iframe.walkthrough-embed {
+  display: block;
+}
+.walkthrough-play {
+  padding: 16px 32px;
+  font-size: 1.1em;
+  cursor: pointer;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
 }
 .walkthrough-note {
   opacity: 0.6;
