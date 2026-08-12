@@ -30,6 +30,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Required for Ruby 3
 gem "webrick", "~> 1.8"
+gem "logger"
 
 gem 'sassc', '~> 2.4'
 gem 'sass-embedded', '~> 1.94'
