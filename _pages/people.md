@@ -223,13 +223,13 @@ Co-Editor: Journal for the Study of Religion in Southern Africa (JSR)</p>
 
 <div class="person-card">
 <div class="person-image">
-<img src="{{site.baseurl}}/images/people/minkyu-lee.jpg" alt="Minkyu Lee">
+<img src="{{site.baseurl}}/images/people/rajeev-dubey.png" alt="Rajeev Dubey">
 </div>
 <div class="person-info">
-<h3 class="person-name">Minkyu Lee</h3>
-<p class="person-title">Researcher, Institute for African Studies, Yonsei University</p>
+<h3 class="person-name">Rajeev Dubey</h3>
+<p class="person-title">Associate Professor, Department of Sociology, Banaras Hindu University</p>
 <p class="person-additional"></p>
-<a href="mailto:mklee715@hanmail.net" class="person-email">mklee715@hanmail.net</a>
+<a href="mailto:rajeevsocio@bhu.ac.in" class="person-email">rajeevsocio@bhu.ac.in</a>
 </div>
 </div>
 </div>

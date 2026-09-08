@@ -42,7 +42,7 @@ menu__settings:
       image: '/images/Shinchonji_World_Peace_Festival_mannam.jpg'
     - title: 'Exhibition'
       url: '/exhibition/'
-      description: "Tracing Tibetan Buddhism's imprint across Vietnam, from temple to digital media"
+      description: "Tracing Tibetan Buddhism's imprint across Vietnam, from temples to digital media"
       image: '/images/museum-exhibition.jpg'
     - title: 'DRH Database'
       url: '/database/'
@@ -63,7 +63,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Mapping Modern Faith and Human Flourishing
-  hero__description: This research project develops the world's largest open-access dataset on contemporary religious movements, examining how new forms of religiosity impact human flourishing. By combining quantitative analysis with qualitative expertise through the Database of Religious History, we study religious groups that emerged since the 1970s across Christian, Dharmic, Japanese, Islamic, and esoteric traditions. The project aims to provide evidence-based insights for policymakers and researchers on how contemporary religious practices contribute to personal and societal wellbeing.
+  hero__description: This research project develops the world's largest open-access dataset on contemporary religious movements, examining how new forms of religiosity impact human flourishing. By combining quantitative analysis with qualitative expertise through the Database of Religious History, we study religious groups that emerged since the 1970s across Christian, Dharmic, Islamic and esoteric traditions, especially focused on Europe, Africa, and South, Southeast, and East Asia. The project aims to provide evidence-based insights for policymakers and researchers on how contemporary religious practices contribute to personal and societal wellbeing.
   hero__image: '/images/NRDSE-home_hero.jpg'
   hero__image_caption: "© Bruiszer/The Open University, CC BY-SA 4.0"
 

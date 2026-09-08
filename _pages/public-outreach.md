@@ -42,6 +42,13 @@ In Year Three, The Open University and Inform staff will host a seminar at Kingâ
 </tr>
 
 <tr>
+<td>October 2026</td>
+<td>O.P. Jindal Global University (JGU)</td>
+<td>Delhi, India</td>
+<td>"Tibetan Buddhist New Religiosity in the 21st Century: Dharamshala, Vietnam, Japan, and the Future of the Tibetan Diaspora"</td>
+</tr>
+
+<tr>
 <td>June 29 - July 1, 2026</td>
 <td>BSA Sociology of Religion Study Group Annual Conference</td>
 <td>University of Nottingham, UK</td>

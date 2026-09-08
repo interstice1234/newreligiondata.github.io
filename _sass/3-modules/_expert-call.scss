@@ -24,7 +24,7 @@
 
   .expert-call__areas {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 16px;
     margin: 24px auto;
     max-width: 700px;
@@ -74,6 +74,24 @@
       font-weight: 700;
       line-height: 1.5;
       margin: 0;
+    }
+
+    &.area-box--theme {
+      background-color: #ECC061;
+      border-color: #ECC061;
+
+      h3 {
+        color: #3a2c0a;
+      }
+    }
+
+    &.area-box--region {
+      background-color: rgba(173, 114, 223, 0.18);
+      border-color: #ad72df;
+
+      @media (prefers-color-scheme: dark) {
+        background-color: rgba(173, 114, 223, 0.28);
+      }
     }
   }
 
