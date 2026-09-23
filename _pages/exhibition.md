@@ -9,15 +9,28 @@ description: 'Duyên Linh: The Imprint of Buddhism Across Time'
 **Duyên Linh: The Imprint of Buddhism Across Time** <br />
 <i>Curators: Hoàng Ngọc An and Stephen Christopher</i>
 
-Hosted at Hải An Gallery in Hồ Chí Minh City from March to May 2026, this 45-day exhibition now continues online as a virtual experience. Duyên Linh traced the emergence of Tibetan Buddhism in Vietnam through temple statues, scroll paintings, prayer flags, monastic robes, and digital media.
+Hosted at Hải An Gallery in Hồ Chí Minh City from March to May 2026, this 45-day exhibition now continues online as a virtual experience. Duyên Linh traced the emergence of Tibetan Buddhism in Vietnam through temple statues, scroll paintings, prayer flags, monastic robes, and digital media. Organized around five Buddhist ideas – navigating, attracting, emitting, spinning, and tying – the exhibition explored how emergent Tibetan Buddhism takes shape in everyday Vietnamese life through personal stories, lived experiences, and creative expressions of faith.
 
-Organized around five Buddhist ideas – navigating, attracting, emitting, spinning, and tying – the exhibition explored how emergent Tibetan Buddhism takes shape in everyday Vietnamese life through personal stories, lived experiences, and creative expressions of faith.
+<div class="exhibition-featured-video">
+  <div class="video-grid__frame">
+    <div class="yt-facade" data-id="w9TKBDK0Xj0" data-title="Duyên Linh: The Imprints of Buddhism Across Time (2026)">
+      <img class="yt-facade__thumb" loading="lazy" src="https://i.ytimg.com/vi/w9TKBDK0Xj0/hqdefault.jpg" alt="Duyên Linh: The Imprints of Buddhism Across Time (2026)">
+      <div class="yt-facade__overlay">
+        <div class="yt-facade__text">
+          <span class="yt-facade__title">Duyên Linh: The Imprints of Buddhism Across Time (2026)</span>
+          <span class="yt-facade__channel">Duyen Linh Exhibition</span>
+        </div>
+        <button type="button" class="yt-facade__play" aria-label="Play Duyên Linh: The Imprints of Buddhism Across Time (2026)" onclick="var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/w9TKBDK0Xj0?autoplay=1&amp;rel=0&amp;modestbranding=1';f.title='Duyên Linh: The Imprints of Buddhism Across Time (2026)';f.frameBorder='0';f.allow='autoplay; encrypted-media';f.allowFullscreen=true;this.parentElement.parentElement.replaceWith(f);"></button>
+      </div>
+    </div>
+  </div>
+</div>
 
 Resources related to the exhibition include:
 - A 3D walkthrough featuring hundreds of interactive artworks, accompanied by a soundtrack of Tibetan-Vietnamese LOFI music.
 - An educational resource packet for introductory college courses, featuring activities and supplementary information designed to deepen engagement with the exhibition.
 - A series of ethnographic short films commissioned for the exhibition, presenting the research underlying the exhibition.
-- Publications associated with the exhibition, including an article in Museum Anthropology, a research catalogue published by Vajra Academic, and an article in #AsiaNow, the blog of the Association for Asian Studies.
+- Publications associated with the exhibition, including an article in Museum Anthropology; a research catalogue published by Vajra Academic; an article in ICOM Voices, the International Council of Museums; and an article in #AsiaNow, the blog of the Association for Asian Studies.
 
 <details name="exhibition" class="exhibition-section" markdown="1">
 <summary>3D Walkthrough</summary>
@@ -47,10 +60,10 @@ An educational resource for introductory college courses in religious studies, a
 <details name="exhibition" class="exhibition-section" markdown="1">
 <summary>Ethnographic Short Films</summary>
 
-Twelve short films documenting contemporary religious communities, produced as part of the exhibition. Videos will be added here as they become available.
+Short ethnographic films about various aspects of Tibetan Buddhism in Vietnam, directed by Lam Khau and produced by the exhibition curators.
 
-{% assign film_ids = "1O4ubiKAFqc,83oPuyzR8_4,DM9sPAALxpo,ua01aVtyLD8,eb52VqH4z4U,PmFb0o8lGcI,4Du7EafqN3s,2bF3WTNFr6E,sv6IE2EnuEg,w9TKBDK0Xj0" | split: "," %}
-{% assign film_titles = "Thich Minh Tinh,DaoMau,Fire Puja,BoHa,Ogen,LanAnh,Sculptors,Lam Hue Temple,Viet Nam Vajrayana,Duyen Linh Exhibition 2026" | split: "," %}
+{% assign film_ids = "1O4ubiKAFqc,83oPuyzR8_4,DM9sPAALxpo,ua01aVtyLD8,eb52VqH4z4U,PmFb0o8lGcI,4Du7EafqN3s,2bF3WTNFr6E,sv6IE2EnuEg" | split: "," %}
+{% assign film_titles = "The First Vietnamese Monk in Tibet: Thích Minh Tịnh's Legacy,Tibetan Buddhism and Vietnamese Mother Goddess Worship (Đạo Mẫu),A Tibetan Fire Ritual in Vietnam,Ghosts in the Bamboo,Vajrayana in Vietnam: Roots and Renewal,A Self-Taught Vietnamese Thanka Artist,A Vietnamese Vision of Vajrayana,The Story of Lâm Huê Temple,Vietnamese Vajrayana Buddhism" | split: "," %}
 <div class="video-grid">
 {% for i in (1..12) %}
   <div class="video-grid__item">
@@ -88,6 +101,11 @@ Twelve short films documenting contemporary religious communities, produced as p
 
 <div class="publication-category">
 <h2>Research Catalogue — Vajra Academic</h2>
+<p class="forthcoming">Forthcoming</p>
+</div>
+
+<div class="publication-category">
+<h2>Article — ICOM Voices (International Council of Museums blog)</h2>
 <p class="forthcoming">Forthcoming</p>
 </div>
 
@@ -231,6 +249,10 @@ Twelve short films documenting contemporary religious communities, produced as p
   margin: 0;
   color: var(--text-alt-color);
   opacity: 0.6;
+}
+.exhibition-featured-video {
+  max-width: 640px;
+  margin: 24px auto;
 }
 .pdf-embed {
   width: 100%;
